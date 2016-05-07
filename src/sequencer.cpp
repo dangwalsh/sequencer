@@ -11,6 +11,7 @@
 
 #include <Arduino.h>
 
+void startStop();
 void stepNext();
 void stepBack();
 void setPitch();
@@ -38,51 +39,59 @@ int sequence[] = {
 
 };
 
-int pitch[8] = { 500 };
+int pitch[8] = { 0 };
 
-int nextPin = 14;
-int backPin = 15;
-int pitchPin = 16;
-int samplePin = 18;
+int nextPin = 3;
+int backPin = 2;
+int pitchPin = 7;
+int samplePin = 19;
 int ledPin = 2;
 int vcoPin = 10;
-int gatePin = 19;
+int gatePin = 20;
+int runPin = 18;
 
 int gate = 0;
 int tick = 0;
 int step = 0;
 
-long lastTime[3] = { 0 };
-long dlay[3] = { 50 };
-int state[3];
-int lastState[3] = { LOW };
+long lastTime[4] = { 0 };
+long dlay[4] = { 10 };
+int state[4];
+int lastState[4] = { LOW };
 
-enum Button { nextB, backB, pitchB };
+enum Button { nextB, backB, pitchB, runB };
+static bool isRunning = false;
 
 void setup()
 {
-  Serial.begin(9600);
   Serial1.begin(31250);
-  for(int i = 0; i < 8; i++)
-    pinMode(ledPin + i, OUTPUT);
+  // for(int i = 0; i < 8; i++)
+  //   pinMode(ledPin + i, OUTPUT);
   pinMode(samplePin, INPUT);
   pinMode(vcoPin, OUTPUT);
   pinMode(nextPin, INPUT);
   pinMode(backPin, INPUT);
   pinMode(gatePin, OUTPUT);
+  pinMode(runPin, INPUT);
+  // attachInterrupt(nextPin, stepNext, RISING);
+  // attachInterrupt(backPin, stepBack, RISING);
+  // attachInterrupt(samplePin, setPitch, RISING);
 }
 
 void loop()
 {
-  if (!Serial1.available()){
+  /*
+  if (!isRunning)
+  {
     setButton(nextB, nextPin, stepNext);
     setButton(backB, backPin, stepBack);
     setButton(pitchB, pitchPin, setPitch);
-
     for(int i = 0; i < 8; i++)
       digitalWrite(ledPin + i, LOW);
     digitalWrite(ledPin + step, HIGH);
   }
+  setButton(runB, runPin, startStop);
+  */
 }
 
 void setButton(int i, int pin, void (*fptr)(void))
@@ -99,11 +108,14 @@ void setButton(int i, int pin, void (*fptr)(void))
   lastState[i] = reading;
 }
 
+void startStop()
+{
+  isRunning = !isRunning;
+}
+
 void setPitch()
 {
   pitch[step] = analogRead(samplePin);
-  Serial.println(step);
-  Serial.println(pitch[step]);
 }
 
 void stepNext()
@@ -124,6 +136,7 @@ int getPitch(int v)
 
 void serialEvent1()
 {
+  //if (!isRunning) return;
   if (Serial1.available())
   {
     if (Serial1.read() == 0xF8)
@@ -132,7 +145,7 @@ void serialEvent1()
       analogWrite(vcoPin, pitch[s]);
       gate ^= sequence[tick];
       digitalWrite(gatePin, gate);
-      digitalWrite(ledPin + s, gate);
+      //digitalWrite(ledPin + s, gate);
       if (tick >= 96) tick = 0;
       else tick++;
     }
