@@ -11,7 +11,12 @@
 
 #include <Arduino.h>
 
-int sequence[96] = {
+void nextStep();
+void backStep();
+void setPitch(int);
+int getPitch(int);
+
+int sequence[] = {
                         //  1/16  1/8   1/4   1/2   1/1
     1, 0, 0, 0, 0, 0,   //   1      1     1     1     1
     1, 0, 0, 0, 0, 0,   //   2
@@ -32,25 +37,60 @@ int sequence[96] = {
 
 };
 
-int gatePin = 2;
-int potPin = A0;
-int pitchPin = 10;
+int pitch[8] = { 0 };
+
+int nextPin = 14;
+int backPin = 15;
+int pitchPin = 16;
+int samplePin = 18;
+int ledPin = 2;
+int vcoPin = 10;
+int gatePin = 19;
+
 int gate = 0;
 int tick = 0;
-
+int step = 0;
 
 void setup()
 {
   Serial1.begin(31250);
-  for(int i=0; i<8; i++)
-    pinMode(gatePin+i, OUTPUT);
-  pinMode(potPin, INPUT);
-  pinMode(pitchPin, OUTPUT);
+  for(int i = 0; i < 8; i++)
+    pinMode(ledPin + i, OUTPUT);
+  pinMode(samplePin, INPUT);
+  pinMode(vcoPin, OUTPUT);
+  pinMode(nextPin, INPUT);
+  pinMode(backPin, INPUT);
 }
 
 void loop()
 {
+  if (digitalRead(nextPin) == HIGH) nextStep();
+  if (digitalRead(backPin) == HIGH) backStep();
+  if (digitalRead(pitchPin) == HIGH) setPitch(step);
+  for(int i = 0; i < 8; i++)
+    digitalWrite(ledPin + i, LOW);
+  digitalWrite(ledPin + step, HIGH);
+}
 
+void setPitch(int s)
+{
+  pitch[s] = analogRead(samplePin);
+}
+
+void nextStep()
+{
+  step = (step < 7) ? ++step : 0;
+}
+
+void backStep()
+{
+  step = (step > 0) ? --step : 7;
+}
+
+int getPitch(int v)
+{
+  for (int i = 1; i < 14; i++)
+    if (v < (79 * i)) return (i - 1);
 }
 
 void serialEvent1()
@@ -59,8 +99,10 @@ void serialEvent1()
   {
     if (Serial1.read() == 0xF8)
     {
+      int s = tick / 12;
+      analogWrite(vcoPin, pitch[s]);
       gate ^= sequence[tick];
-      digitalWrite(gatePin + tick / 12, gate);
+      digitalWrite(ledPin + s, gate);
       if (tick >= 96) tick = 0;
       else tick++;
     }
