@@ -11,10 +11,11 @@
 
 #include <Arduino.h>
 
-void nextStep();
-void backStep();
-void setPitch(int);
+void stepNext();
+void stepBack();
+void setPitch();
 int getPitch(int);
+void setButton(int, int, void (*f)(void));
 
 int sequence[] = {
                         //  1/16  1/8   1/4   1/2   1/1
@@ -37,7 +38,7 @@ int sequence[] = {
 
 };
 
-int pitch[8] = { 0 };
+int pitch[8] = { 500 };
 
 int nextPin = 14;
 int backPin = 15;
@@ -51,8 +52,16 @@ int gate = 0;
 int tick = 0;
 int step = 0;
 
+long lastTime[3] = { 0 };
+long dlay[3] = { 50 };
+int state[3];
+int lastState[3] = { LOW };
+
+enum Button { nextB, backB, pitchB };
+
 void setup()
 {
+  Serial.begin(9600);
   Serial1.begin(31250);
   for(int i = 0; i < 8; i++)
     pinMode(ledPin + i, OUTPUT);
@@ -60,29 +69,49 @@ void setup()
   pinMode(vcoPin, OUTPUT);
   pinMode(nextPin, INPUT);
   pinMode(backPin, INPUT);
+  pinMode(gatePin, OUTPUT);
 }
 
 void loop()
 {
-  if (digitalRead(nextPin) == HIGH) nextStep();
-  if (digitalRead(backPin) == HIGH) backStep();
-  if (digitalRead(pitchPin) == HIGH) setPitch(step);
-  for(int i = 0; i < 8; i++)
-    digitalWrite(ledPin + i, LOW);
-  digitalWrite(ledPin + step, HIGH);
+  if (!Serial1.available()){
+    setButton(nextB, nextPin, stepNext);
+    setButton(backB, backPin, stepBack);
+    setButton(pitchB, pitchPin, setPitch);
+
+    for(int i = 0; i < 8; i++)
+      digitalWrite(ledPin + i, LOW);
+    digitalWrite(ledPin + step, HIGH);
+  }
 }
 
-void setPitch(int s)
+void setButton(int i, int pin, void (*fptr)(void))
 {
-  pitch[s] = analogRead(samplePin);
+  int reading = digitalRead(pin);
+  if (reading != lastState[i])
+    lastTime[i] = millis();
+  if ((millis() - lastTime[i]) > dlay[i])
+    if (reading != state[i])
+    {
+      state[i] = reading;
+      if (state[i] == HIGH) fptr();
+    }
+  lastState[i] = reading;
 }
 
-void nextStep()
+void setPitch()
+{
+  pitch[step] = analogRead(samplePin);
+  Serial.println(step);
+  Serial.println(pitch[step]);
+}
+
+void stepNext()
 {
   step = (step < 7) ? ++step : 0;
 }
 
-void backStep()
+void stepBack()
 {
   step = (step > 0) ? --step : 7;
 }
@@ -102,6 +131,7 @@ void serialEvent1()
       int s = tick / 12;
       analogWrite(vcoPin, pitch[s]);
       gate ^= sequence[tick];
+      digitalWrite(gatePin, gate);
       digitalWrite(ledPin + s, gate);
       if (tick >= 96) tick = 0;
       else tick++;
