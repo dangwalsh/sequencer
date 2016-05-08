@@ -1,0 +1,1512 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A0	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^static const uint8_t A0 = 18;$/;"	v
+A1	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^static const uint8_t A1 = 19;$/;"	v
+A10	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^static const uint8_t A10 = 28;  \/\/ D10$/;"	v
+A11	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^static const uint8_t A11 = 29;  \/\/ D12$/;"	v
+A2	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^static const uint8_t A2 = 20;$/;"	v
+A3	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^static const uint8_t A3 = 21;$/;"	v
+A4	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^static const uint8_t A4 = 22;$/;"	v
+A5	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^static const uint8_t A5 = 23;$/;"	v
+A6	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^static const uint8_t A6 = 24;   \/\/ D4$/;"	v
+A7	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^static const uint8_t A7 = 25;   \/\/ D6$/;"	v
+A8	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^static const uint8_t A8 = 26;   \/\/ D8$/;"	v
+A9	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^static const uint8_t A9 = 27;   \/\/ D9$/;"	v
+ACMFunctionalDescriptor	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^} ACMFunctionalDescriptor;$/;"	t	typeref:struct:__anon14
+ARDUINO_MAIN	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_digital.c	/^#define ARDUINO_MAIN$/;"	d	file:
+AVAILABLE_TONE_PINS	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^#define AVAILABLE_TONE_PINS /;"	d	file:
+Arduino_h	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define Arduino_h$/;"	d
+B0	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0 /;"	d
+B00	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00 /;"	d
+B000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B000 /;"	d
+B0000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0000 /;"	d
+B00000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00000 /;"	d
+B000000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B000000 /;"	d
+B0000000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0000000 /;"	d
+B00000000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00000000 /;"	d
+B00000001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00000001 /;"	d
+B0000001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0000001 /;"	d
+B00000010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00000010 /;"	d
+B00000011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00000011 /;"	d
+B000001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B000001 /;"	d
+B0000010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0000010 /;"	d
+B00000100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00000100 /;"	d
+B00000101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00000101 /;"	d
+B0000011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0000011 /;"	d
+B00000110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00000110 /;"	d
+B00000111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00000111 /;"	d
+B00001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00001 /;"	d
+B000010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B000010 /;"	d
+B0000100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0000100 /;"	d
+B00001000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00001000 /;"	d
+B00001001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00001001 /;"	d
+B0000101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0000101 /;"	d
+B00001010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00001010 /;"	d
+B00001011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00001011 /;"	d
+B000011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B000011 /;"	d
+B0000110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0000110 /;"	d
+B00001100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00001100 /;"	d
+B00001101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00001101 /;"	d
+B0000111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0000111 /;"	d
+B00001110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00001110 /;"	d
+B00001111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00001111 /;"	d
+B0001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0001 /;"	d
+B00010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00010 /;"	d
+B000100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B000100 /;"	d
+B0001000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0001000 /;"	d
+B00010000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00010000 /;"	d
+B00010001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00010001 /;"	d
+B0001001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0001001 /;"	d
+B00010010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00010010 /;"	d
+B00010011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00010011 /;"	d
+B000101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B000101 /;"	d
+B0001010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0001010 /;"	d
+B00010100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00010100 /;"	d
+B00010101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00010101 /;"	d
+B0001011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0001011 /;"	d
+B00010110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00010110 /;"	d
+B00010111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00010111 /;"	d
+B00011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00011 /;"	d
+B000110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B000110 /;"	d
+B0001100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0001100 /;"	d
+B00011000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00011000 /;"	d
+B00011001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00011001 /;"	d
+B0001101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0001101 /;"	d
+B00011010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00011010 /;"	d
+B00011011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00011011 /;"	d
+B000111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B000111 /;"	d
+B0001110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0001110 /;"	d
+B00011100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00011100 /;"	d
+B00011101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00011101 /;"	d
+B0001111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0001111 /;"	d
+B00011110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00011110 /;"	d
+B00011111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00011111 /;"	d
+B001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B001 /;"	d
+B0010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0010 /;"	d
+B00100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00100 /;"	d
+B001000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B001000 /;"	d
+B0010000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0010000 /;"	d
+B00100000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00100000 /;"	d
+B00100001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00100001 /;"	d
+B0010001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0010001 /;"	d
+B00100010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00100010 /;"	d
+B00100011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00100011 /;"	d
+B001001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B001001 /;"	d
+B0010010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0010010 /;"	d
+B00100100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00100100 /;"	d
+B00100101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00100101 /;"	d
+B0010011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0010011 /;"	d
+B00100110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00100110 /;"	d
+B00100111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00100111 /;"	d
+B00101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00101 /;"	d
+B001010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B001010 /;"	d
+B0010100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0010100 /;"	d
+B00101000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00101000 /;"	d
+B00101001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00101001 /;"	d
+B0010101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0010101 /;"	d
+B00101010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00101010 /;"	d
+B00101011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00101011 /;"	d
+B001011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B001011 /;"	d
+B0010110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0010110 /;"	d
+B00101100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00101100 /;"	d
+B00101101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00101101 /;"	d
+B0010111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0010111 /;"	d
+B00101110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00101110 /;"	d
+B00101111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00101111 /;"	d
+B0011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0011 /;"	d
+B00110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00110 /;"	d
+B001100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B001100 /;"	d
+B0011000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0011000 /;"	d
+B00110000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00110000 /;"	d
+B00110001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00110001 /;"	d
+B0011001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0011001 /;"	d
+B00110010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00110010 /;"	d
+B00110011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00110011 /;"	d
+B001101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B001101 /;"	d
+B0011010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0011010 /;"	d
+B00110100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00110100 /;"	d
+B00110101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00110101 /;"	d
+B0011011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0011011 /;"	d
+B00110110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00110110 /;"	d
+B00110111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00110111 /;"	d
+B00111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00111 /;"	d
+B001110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B001110 /;"	d
+B0011100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0011100 /;"	d
+B00111000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00111000 /;"	d
+B00111001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00111001 /;"	d
+B0011101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0011101 /;"	d
+B00111010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00111010 /;"	d
+B00111011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00111011 /;"	d
+B001111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B001111 /;"	d
+B0011110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0011110 /;"	d
+B00111100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00111100 /;"	d
+B00111101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00111101 /;"	d
+B0011111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0011111 /;"	d
+B00111110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00111110 /;"	d
+B00111111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B00111111 /;"	d
+B01	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01 /;"	d
+B010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B010 /;"	d
+B0100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0100 /;"	d
+B01000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01000 /;"	d
+B010000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B010000 /;"	d
+B0100000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0100000 /;"	d
+B01000000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01000000 /;"	d
+B01000001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01000001 /;"	d
+B0100001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0100001 /;"	d
+B01000010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01000010 /;"	d
+B01000011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01000011 /;"	d
+B010001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B010001 /;"	d
+B0100010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0100010 /;"	d
+B01000100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01000100 /;"	d
+B01000101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01000101 /;"	d
+B0100011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0100011 /;"	d
+B01000110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01000110 /;"	d
+B01000111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01000111 /;"	d
+B01001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01001 /;"	d
+B010010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B010010 /;"	d
+B0100100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0100100 /;"	d
+B01001000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01001000 /;"	d
+B01001001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01001001 /;"	d
+B0100101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0100101 /;"	d
+B01001010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01001010 /;"	d
+B01001011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01001011 /;"	d
+B010011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B010011 /;"	d
+B0100110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0100110 /;"	d
+B01001100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01001100 /;"	d
+B01001101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01001101 /;"	d
+B0100111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0100111 /;"	d
+B01001110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01001110 /;"	d
+B01001111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01001111 /;"	d
+B0101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0101 /;"	d
+B01010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01010 /;"	d
+B010100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B010100 /;"	d
+B0101000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0101000 /;"	d
+B01010000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01010000 /;"	d
+B01010001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01010001 /;"	d
+B0101001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0101001 /;"	d
+B01010010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01010010 /;"	d
+B01010011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01010011 /;"	d
+B010101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B010101 /;"	d
+B0101010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0101010 /;"	d
+B01010100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01010100 /;"	d
+B01010101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01010101 /;"	d
+B0101011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0101011 /;"	d
+B01010110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01010110 /;"	d
+B01010111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01010111 /;"	d
+B01011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01011 /;"	d
+B010110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B010110 /;"	d
+B0101100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0101100 /;"	d
+B01011000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01011000 /;"	d
+B01011001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01011001 /;"	d
+B0101101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0101101 /;"	d
+B01011010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01011010 /;"	d
+B01011011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01011011 /;"	d
+B010111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B010111 /;"	d
+B0101110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0101110 /;"	d
+B01011100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01011100 /;"	d
+B01011101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01011101 /;"	d
+B0101111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0101111 /;"	d
+B01011110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01011110 /;"	d
+B01011111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01011111 /;"	d
+B011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B011 /;"	d
+B0110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0110 /;"	d
+B01100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01100 /;"	d
+B011000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B011000 /;"	d
+B0110000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0110000 /;"	d
+B01100000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01100000 /;"	d
+B01100001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01100001 /;"	d
+B0110001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0110001 /;"	d
+B01100010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01100010 /;"	d
+B01100011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01100011 /;"	d
+B011001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B011001 /;"	d
+B0110010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0110010 /;"	d
+B01100100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01100100 /;"	d
+B01100101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01100101 /;"	d
+B0110011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0110011 /;"	d
+B01100110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01100110 /;"	d
+B01100111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01100111 /;"	d
+B01101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01101 /;"	d
+B011010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B011010 /;"	d
+B0110100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0110100 /;"	d
+B01101000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01101000 /;"	d
+B01101001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01101001 /;"	d
+B0110101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0110101 /;"	d
+B01101010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01101010 /;"	d
+B01101011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01101011 /;"	d
+B011011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B011011 /;"	d
+B0110110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0110110 /;"	d
+B01101100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01101100 /;"	d
+B01101101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01101101 /;"	d
+B0110111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0110111 /;"	d
+B01101110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01101110 /;"	d
+B01101111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01101111 /;"	d
+B0111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0111 /;"	d
+B01110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01110 /;"	d
+B011100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B011100 /;"	d
+B0111000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0111000 /;"	d
+B01110000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01110000 /;"	d
+B01110001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01110001 /;"	d
+B0111001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0111001 /;"	d
+B01110010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01110010 /;"	d
+B01110011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01110011 /;"	d
+B011101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B011101 /;"	d
+B0111010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0111010 /;"	d
+B01110100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01110100 /;"	d
+B01110101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01110101 /;"	d
+B0111011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0111011 /;"	d
+B01110110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01110110 /;"	d
+B01110111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01110111 /;"	d
+B01111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01111 /;"	d
+B011110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B011110 /;"	d
+B0111100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0111100 /;"	d
+B01111000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01111000 /;"	d
+B01111001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01111001 /;"	d
+B0111101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0111101 /;"	d
+B01111010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01111010 /;"	d
+B01111011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01111011 /;"	d
+B011111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B011111 /;"	d
+B0111110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0111110 /;"	d
+B01111100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01111100 /;"	d
+B01111101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01111101 /;"	d
+B0111111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B0111111 /;"	d
+B01111110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01111110 /;"	d
+B01111111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B01111111 /;"	d
+B1	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1 /;"	d
+B10	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10 /;"	d
+B100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B100 /;"	d
+B1000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1000 /;"	d
+B10000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10000 /;"	d
+B100000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B100000 /;"	d
+B1000000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1000000 /;"	d
+B10000000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10000000 /;"	d
+B10000001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10000001 /;"	d
+B1000001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1000001 /;"	d
+B10000010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10000010 /;"	d
+B10000011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10000011 /;"	d
+B100001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B100001 /;"	d
+B1000010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1000010 /;"	d
+B10000100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10000100 /;"	d
+B10000101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10000101 /;"	d
+B1000011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1000011 /;"	d
+B10000110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10000110 /;"	d
+B10000111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10000111 /;"	d
+B10001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10001 /;"	d
+B100010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B100010 /;"	d
+B1000100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1000100 /;"	d
+B10001000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10001000 /;"	d
+B10001001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10001001 /;"	d
+B1000101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1000101 /;"	d
+B10001010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10001010 /;"	d
+B10001011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10001011 /;"	d
+B100011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B100011 /;"	d
+B1000110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1000110 /;"	d
+B10001100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10001100 /;"	d
+B10001101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10001101 /;"	d
+B1000111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1000111 /;"	d
+B10001110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10001110 /;"	d
+B10001111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10001111 /;"	d
+B1001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1001 /;"	d
+B10010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10010 /;"	d
+B100100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B100100 /;"	d
+B1001000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1001000 /;"	d
+B10010000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10010000 /;"	d
+B10010001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10010001 /;"	d
+B1001001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1001001 /;"	d
+B10010010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10010010 /;"	d
+B10010011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10010011 /;"	d
+B100101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B100101 /;"	d
+B1001010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1001010 /;"	d
+B10010100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10010100 /;"	d
+B10010101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10010101 /;"	d
+B1001011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1001011 /;"	d
+B10010110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10010110 /;"	d
+B10010111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10010111 /;"	d
+B10011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10011 /;"	d
+B100110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B100110 /;"	d
+B1001100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1001100 /;"	d
+B10011000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10011000 /;"	d
+B10011001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10011001 /;"	d
+B1001101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1001101 /;"	d
+B10011010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10011010 /;"	d
+B10011011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10011011 /;"	d
+B100111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B100111 /;"	d
+B1001110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1001110 /;"	d
+B10011100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10011100 /;"	d
+B10011101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10011101 /;"	d
+B1001111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1001111 /;"	d
+B10011110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10011110 /;"	d
+B10011111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10011111 /;"	d
+B101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B101 /;"	d
+B1010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1010 /;"	d
+B10100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10100 /;"	d
+B101000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B101000 /;"	d
+B1010000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1010000 /;"	d
+B10100000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10100000 /;"	d
+B10100001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10100001 /;"	d
+B1010001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1010001 /;"	d
+B10100010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10100010 /;"	d
+B10100011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10100011 /;"	d
+B101001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B101001 /;"	d
+B1010010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1010010 /;"	d
+B10100100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10100100 /;"	d
+B10100101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10100101 /;"	d
+B1010011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1010011 /;"	d
+B10100110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10100110 /;"	d
+B10100111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10100111 /;"	d
+B10101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10101 /;"	d
+B101010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B101010 /;"	d
+B1010100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1010100 /;"	d
+B10101000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10101000 /;"	d
+B10101001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10101001 /;"	d
+B1010101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1010101 /;"	d
+B10101010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10101010 /;"	d
+B10101011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10101011 /;"	d
+B101011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B101011 /;"	d
+B1010110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1010110 /;"	d
+B10101100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10101100 /;"	d
+B10101101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10101101 /;"	d
+B1010111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1010111 /;"	d
+B10101110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10101110 /;"	d
+B10101111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10101111 /;"	d
+B1011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1011 /;"	d
+B10110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10110 /;"	d
+B101100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B101100 /;"	d
+B1011000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1011000 /;"	d
+B10110000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10110000 /;"	d
+B10110001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10110001 /;"	d
+B1011001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1011001 /;"	d
+B10110010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10110010 /;"	d
+B10110011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10110011 /;"	d
+B101101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B101101 /;"	d
+B1011010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1011010 /;"	d
+B10110100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10110100 /;"	d
+B10110101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10110101 /;"	d
+B1011011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1011011 /;"	d
+B10110110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10110110 /;"	d
+B10110111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10110111 /;"	d
+B10111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10111 /;"	d
+B101110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B101110 /;"	d
+B1011100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1011100 /;"	d
+B10111000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10111000 /;"	d
+B10111001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10111001 /;"	d
+B1011101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1011101 /;"	d
+B10111010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10111010 /;"	d
+B10111011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10111011 /;"	d
+B101111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B101111 /;"	d
+B1011110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1011110 /;"	d
+B10111100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10111100 /;"	d
+B10111101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10111101 /;"	d
+B1011111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1011111 /;"	d
+B10111110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10111110 /;"	d
+B10111111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B10111111 /;"	d
+B11	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11 /;"	d
+B110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B110 /;"	d
+B1100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1100 /;"	d
+B11000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11000 /;"	d
+B110000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B110000 /;"	d
+B1100000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1100000 /;"	d
+B11000000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11000000 /;"	d
+B11000001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11000001 /;"	d
+B1100001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1100001 /;"	d
+B11000010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11000010 /;"	d
+B11000011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11000011 /;"	d
+B110001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B110001 /;"	d
+B1100010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1100010 /;"	d
+B11000100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11000100 /;"	d
+B11000101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11000101 /;"	d
+B1100011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1100011 /;"	d
+B11000110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11000110 /;"	d
+B11000111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11000111 /;"	d
+B11001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11001 /;"	d
+B110010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B110010 /;"	d
+B1100100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1100100 /;"	d
+B11001000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11001000 /;"	d
+B11001001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11001001 /;"	d
+B1100101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1100101 /;"	d
+B11001010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11001010 /;"	d
+B11001011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11001011 /;"	d
+B110011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B110011 /;"	d
+B1100110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1100110 /;"	d
+B11001100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11001100 /;"	d
+B11001101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11001101 /;"	d
+B1100111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1100111 /;"	d
+B11001110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11001110 /;"	d
+B11001111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11001111 /;"	d
+B1101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1101 /;"	d
+B11010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11010 /;"	d
+B110100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B110100 /;"	d
+B1101000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1101000 /;"	d
+B11010000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11010000 /;"	d
+B11010001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11010001 /;"	d
+B1101001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1101001 /;"	d
+B11010010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11010010 /;"	d
+B11010011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11010011 /;"	d
+B110101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B110101 /;"	d
+B1101010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1101010 /;"	d
+B11010100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11010100 /;"	d
+B11010101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11010101 /;"	d
+B1101011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1101011 /;"	d
+B11010110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11010110 /;"	d
+B11010111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11010111 /;"	d
+B11011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11011 /;"	d
+B110110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B110110 /;"	d
+B1101100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1101100 /;"	d
+B11011000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11011000 /;"	d
+B11011001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11011001 /;"	d
+B1101101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1101101 /;"	d
+B11011010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11011010 /;"	d
+B11011011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11011011 /;"	d
+B110111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B110111 /;"	d
+B1101110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1101110 /;"	d
+B11011100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11011100 /;"	d
+B11011101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11011101 /;"	d
+B1101111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1101111 /;"	d
+B11011110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11011110 /;"	d
+B11011111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11011111 /;"	d
+B111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B111 /;"	d
+B1110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1110 /;"	d
+B11100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11100 /;"	d
+B111000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B111000 /;"	d
+B1110000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1110000 /;"	d
+B11100000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11100000 /;"	d
+B11100001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11100001 /;"	d
+B1110001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1110001 /;"	d
+B11100010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11100010 /;"	d
+B11100011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11100011 /;"	d
+B111001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B111001 /;"	d
+B1110010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1110010 /;"	d
+B11100100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11100100 /;"	d
+B11100101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11100101 /;"	d
+B1110011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1110011 /;"	d
+B11100110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11100110 /;"	d
+B11100111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11100111 /;"	d
+B11101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11101 /;"	d
+B111010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B111010 /;"	d
+B1110100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1110100 /;"	d
+B11101000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11101000 /;"	d
+B11101001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11101001 /;"	d
+B1110101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1110101 /;"	d
+B11101010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11101010 /;"	d
+B11101011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11101011 /;"	d
+B111011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B111011 /;"	d
+B1110110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1110110 /;"	d
+B11101100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11101100 /;"	d
+B11101101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11101101 /;"	d
+B1110111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1110111 /;"	d
+B11101110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11101110 /;"	d
+B11101111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11101111 /;"	d
+B1111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1111 /;"	d
+B11110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11110 /;"	d
+B111100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B111100 /;"	d
+B1111000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1111000 /;"	d
+B11110000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11110000 /;"	d
+B11110001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11110001 /;"	d
+B1111001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1111001 /;"	d
+B11110010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11110010 /;"	d
+B11110011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11110011 /;"	d
+B111101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B111101 /;"	d
+B1111010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1111010 /;"	d
+B11110100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11110100 /;"	d
+B11110101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11110101 /;"	d
+B1111011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1111011 /;"	d
+B11110110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11110110 /;"	d
+B11110111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11110111 /;"	d
+B11111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11111 /;"	d
+B111110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B111110 /;"	d
+B1111100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1111100 /;"	d
+B11111000	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11111000 /;"	d
+B11111001	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11111001 /;"	d
+B1111101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1111101 /;"	d
+B11111010	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11111010 /;"	d
+B11111011	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11111011 /;"	d
+B111111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B111111 /;"	d
+B1111110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1111110 /;"	d
+B11111100	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11111100 /;"	d
+B11111101	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11111101 /;"	d
+B1111111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B1111111 /;"	d
+B11111110	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11111110 /;"	d
+B11111111	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define B11111111 /;"	d
+BIN	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.h	/^#define BIN /;"	d
+Binary_h	.pioenvs/sparkfun_promicro16/FrameworkArduino/binary.h	/^#define Binary_h$/;"	d
+CDCCSInterfaceDescriptor	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^} CDCCSInterfaceDescriptor;$/;"	t	typeref:struct:__anon11
+CDCCSInterfaceDescriptor4	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^} CDCCSInterfaceDescriptor4;$/;"	t	typeref:struct:__anon12
+CDCDescriptor	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^} CDCDescriptor;$/;"	t	typeref:struct:__anon15
+CDC_ABSTRACT_CONTROL_MANAGEMENT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define CDC_ABSTRACT_CONTROL_MANAGEMENT /;"	d
+CDC_ABSTRACT_CONTROL_MODEL	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define CDC_ABSTRACT_CONTROL_MODEL /;"	d
+CDC_ACM_INTERFACE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBDesc.h	/^#define CDC_ACM_INTERFACE	/;"	d
+CDC_CALL_MANAGEMENT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define CDC_CALL_MANAGEMENT /;"	d
+CDC_COMMUNICATION_INTERFACE_CLASS	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define CDC_COMMUNICATION_INTERFACE_CLASS /;"	d
+CDC_CS_ENDPOINT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define CDC_CS_ENDPOINT /;"	d
+CDC_CS_INTERFACE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define CDC_CS_INTERFACE /;"	d
+CDC_DATA_INTERFACE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBDesc.h	/^#define CDC_DATA_INTERFACE	/;"	d
+CDC_DATA_INTERFACE_CLASS	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define CDC_DATA_INTERFACE_CLASS /;"	d
+CDC_ENDPOINT_ACM	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBDesc.h	/^#define CDC_ENDPOINT_ACM	/;"	d
+CDC_ENDPOINT_IN	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBDesc.h	/^#define CDC_ENDPOINT_IN	/;"	d
+CDC_ENDPOINT_OUT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBDesc.h	/^#define CDC_ENDPOINT_OUT	/;"	d
+CDC_ENPOINT_COUNT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBDesc.h	/^#define CDC_ENPOINT_COUNT	/;"	d
+CDC_FIRST_ENDPOINT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBDesc.h	/^#define CDC_FIRST_ENDPOINT	/;"	d
+CDC_GET_LINE_CODING	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define CDC_GET_LINE_CODING	/;"	d
+CDC_GetInterface	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^int CDC_GetInterface(u8* interfaceNum)$/;"	f
+CDC_HEADER	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define CDC_HEADER /;"	d
+CDC_INTERFACE_COUNT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBDesc.h	/^#define CDC_INTERFACE_COUNT	/;"	d
+CDC_RX	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBDesc.h	/^#define CDC_RX /;"	d
+CDC_SEND_BREAK	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define CDC_SEND_BREAK	/;"	d
+CDC_SET_CONTROL_LINE_STATE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define CDC_SET_CONTROL_LINE_STATE	/;"	d
+CDC_SET_LINE_CODING	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define CDC_SET_LINE_CODING	/;"	d
+CDC_Setup	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^bool CDC_Setup(USBSetup& setup)$/;"	f
+CDC_TX	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBDesc.h	/^#define CDC_TX /;"	d
+CDC_UNION	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define CDC_UNION /;"	d
+CDC_V1_10	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define CDC_V1_10 /;"	d
+CHANGE	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define CHANGE /;"	d
+CLEAR_FEATURE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define CLEAR_FEATURE	/;"	d
+CMFunctionalDescriptor	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^} CMFunctionalDescriptor;$/;"	t	typeref:struct:__anon13
+COM2A0	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^#define COM2A0 /;"	d	file:
+COM2A0	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef COM2A0$/;"	d
+COM2A1	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^#define COM2A1 /;"	d	file:
+COM2A1	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef COM2A1$/;"	d
+COM2B0	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef COM2B0$/;"	d
+COM2B1	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef COM2B1$/;"	d
+CS20	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef CS20$/;"	d
+CS21	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef CS21$/;"	d
+CS22	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef CS22$/;"	d
+Character_h	.pioenvs/sparkfun_promicro16/FrameworkArduino/WCharacter.h	/^#define Character_h$/;"	d
+ClassInterfaceRequest	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^bool ClassInterfaceRequest(USBSetup& setup)$/;"	f	file:
+ClearIN	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static inline void ClearIN(void)$/;"	f	file:
+ClearOUT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static inline void ClearOUT(void)$/;"	f	file:
+ClearSetupInt	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static inline void ClearSetupInt()$/;"	f	file:
+ConfigDescriptor	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^} ConfigDescriptor;$/;"	t	typeref:struct:__anon7
+DEC	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.h	/^#define DEC /;"	d
+DEFAULT	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define DEFAULT /;"	d
+DEG_TO_RAD	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define DEG_TO_RAD /;"	d
+DEVICE_CLASS	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^#define DEVICE_CLASS /;"	d	file:
+DEVICE_REMOTE_WAKEUP	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define DEVICE_REMOTE_WAKEUP /;"	d
+DISPLAY	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define DISPLAY /;"	d
+D_CDCCS	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define D_CDCCS(/;"	d
+D_CDCCS4	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define D_CDCCS4(/;"	d
+D_CONFIG	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define D_CONFIG(/;"	d
+D_DEVICE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define D_DEVICE(/;"	d
+D_ENDPOINT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define D_ENDPOINT(/;"	d
+D_IAD	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define D_IAD(/;"	d
+D_INTERFACE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define D_INTERFACE(/;"	d
+DeviceDescriptor	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^} DeviceDescriptor;$/;"	t	typeref:struct:__anon6
+ENDPOINT_HALT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define ENDPOINT_HALT /;"	d
+EP_DOUBLE_64	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^#define EP_DOUBLE_64 /;"	d	file:
+EP_SINGLE_16	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^#define EP_SINGLE_16 /;"	d	file:
+EP_SINGLE_64	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^#define EP_SINGLE_64 /;"	d	file:
+EP_TYPE_BULK_IN	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^#define EP_TYPE_BULK_IN	/;"	d
+EP_TYPE_BULK_OUT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^#define EP_TYPE_BULK_OUT	/;"	d
+EP_TYPE_CONTROL	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^#define EP_TYPE_CONTROL	/;"	d
+EP_TYPE_INTERRUPT_IN	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^#define EP_TYPE_INTERRUPT_IN	/;"	d
+EP_TYPE_INTERRUPT_OUT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^#define EP_TYPE_INTERRUPT_OUT	/;"	d
+EP_TYPE_ISOCHRONOUS_IN	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^#define EP_TYPE_ISOCHRONOUS_IN	/;"	d
+EP_TYPE_ISOCHRONOUS_OUT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^#define EP_TYPE_ISOCHRONOUS_OUT	/;"	d
+EULER	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define EULER /;"	d
+EVEN_PARITY	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^		EVEN_PARITY = 2,$/;"	e	enum:Serial_::__anon4
+EXTERNAL	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define EXTERNAL /;"	d
+EXTERNAL_INT_0	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_private.h	/^#define EXTERNAL_INT_0 /;"	d
+EXTERNAL_INT_1	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_private.h	/^#define EXTERNAL_INT_1 /;"	d
+EXTERNAL_INT_2	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_private.h	/^#define EXTERNAL_INT_2 /;"	d
+EXTERNAL_INT_3	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_private.h	/^#define EXTERNAL_INT_3 /;"	d
+EXTERNAL_INT_4	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_private.h	/^#define EXTERNAL_INT_4 /;"	d
+EXTERNAL_INT_5	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_private.h	/^#define EXTERNAL_INT_5 /;"	d
+EXTERNAL_INT_6	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_private.h	/^#define EXTERNAL_INT_6 /;"	d
+EXTERNAL_INT_7	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_private.h	/^#define EXTERNAL_INT_7 /;"	d
+EXTERNAL_NUM_INTERRUPTS	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_private.h	/^#define EXTERNAL_NUM_INTERRUPTS /;"	d
+EndpointDescriptor	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^} EndpointDescriptor;$/;"	t	typeref:struct:__anon9
+F	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^#define F(/;"	d
+FALLING	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define FALLING /;"	d
+FEATURE_REMOTE_WAKEUP_ENABLED	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define FEATURE_REMOTE_WAKEUP_ENABLED /;"	d
+FEATURE_SELFPOWERED_ENABLED	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define FEATURE_SELFPOWERED_ENABLED /;"	d
+FOC2A	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef FOC2A$/;"	d
+FOC2B	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef FOC2B$/;"	d
+FRACT_INC	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring.c	/^#define FRACT_INC /;"	d	file:
+FRACT_MAX	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring.c	/^#define FRACT_MAX /;"	d	file:
+FifoByteCount	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static inline u8 FifoByteCount()$/;"	f	file:
+FifoFree	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static inline u8 FifoFree()$/;"	f	file:
+FrameNumber	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static inline u8 FrameNumber()$/;"	f	file:
+GET_CONFIGURATION	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define GET_CONFIGURATION	/;"	d
+GET_DESCRIPTOR	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define GET_DESCRIPTOR	/;"	d
+GET_INTERFACE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define GET_INTERFACE	/;"	d
+GET_STATUS	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define GET_STATUS	/;"	d
+HALF_PI	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define HALF_PI /;"	d
+HAVE_CDCSERIAL	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^#define HAVE_CDCSERIAL$/;"	d
+HAVE_HWSERIAL0	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^  #define HAVE_HWSERIAL0$/;"	d
+HAVE_HWSERIAL1	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^  #define HAVE_HWSERIAL1$/;"	d
+HAVE_HWSERIAL2	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^  #define HAVE_HWSERIAL2$/;"	d
+HAVE_HWSERIAL3	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^  #define HAVE_HWSERIAL3$/;"	d
+HEX	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.h	/^#define HEX /;"	d
+HIGH	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define HIGH /;"	d
+HardwareSerial	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^class HardwareSerial : public Stream$/;"	c
+HardwareSerial	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial_private.h	/^HardwareSerial::HardwareSerial($/;"	f	class:HardwareSerial
+HardwareSerial_h	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define HardwareSerial_h$/;"	d
+IADDescriptor	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^} IADDescriptor;$/;"	t	typeref:struct:__anon10
+IMANUFACTURER	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBDesc.h	/^#define IMANUFACTURER /;"	d
+IMPLEMENT_ISR	.pioenvs/sparkfun_promicro16/FrameworkArduino/WInterrupts.c	/^#define IMPLEMENT_ISR(/;"	d	file:
+INPUT	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define INPUT /;"	d
+INPUT_PULLUP	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define INPUT_PULLUP /;"	d
+INTERFACE_COUNT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBDesc.h	/^#define INTERFACE_COUNT	/;"	d
+INTERNAL	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define INTERNAL /;"	d
+INTERNAL1V1	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define INTERNAL1V1 /;"	d
+INTERNAL2V56	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define INTERNAL2V56 /;"	d
+IPAddress	.pioenvs/sparkfun_promicro16/FrameworkArduino/IPAddress.cpp	/^IPAddress::IPAddress()$/;"	f	class:IPAddress
+IPAddress	.pioenvs/sparkfun_promicro16/FrameworkArduino/IPAddress.cpp	/^IPAddress::IPAddress(const uint8_t *address)$/;"	f	class:IPAddress
+IPAddress	.pioenvs/sparkfun_promicro16/FrameworkArduino/IPAddress.cpp	/^IPAddress::IPAddress(uint32_t address)$/;"	f	class:IPAddress
+IPAddress	.pioenvs/sparkfun_promicro16/FrameworkArduino/IPAddress.cpp	/^IPAddress::IPAddress(uint8_t first_octet, uint8_t second_octet, uint8_t third_octet, uint8_t fourth_octet)$/;"	f	class:IPAddress
+IPAddress	.pioenvs/sparkfun_promicro16/FrameworkArduino/IPAddress.h	/^class IPAddress : public Printable {$/;"	c
+IPAddress_h	.pioenvs/sparkfun_promicro16/FrameworkArduino/IPAddress.h	/^#define IPAddress_h$/;"	d
+IPRODUCT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBDesc.h	/^#define IPRODUCT /;"	d
+ISERIAL	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBDesc.h	/^#define ISERIAL /;"	d
+ISERIAL_MAX_LEN	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBDesc.h	/^#define ISERIAL_MAX_LEN /;"	d
+ISR	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial0.cpp	/^  ISR(USART_RX_vect)$/;"	f
+ISR	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial0.cpp	/^ISR(UART0_UDRE_vect)$/;"	f
+ISR	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial1.cpp	/^ISR(UART1_RX_vect)$/;"	f
+ISR	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial1.cpp	/^ISR(UART1_UDRE_vect)$/;"	f
+ISR	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial2.cpp	/^ISR(USART2_RX_vect)$/;"	f
+ISR	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial2.cpp	/^ISR(USART2_UDRE_vect)$/;"	f
+ISR	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial3.cpp	/^ISR(USART3_RX_vect)$/;"	f
+ISR	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial3.cpp	/^ISR(USART3_UDRE_vect)$/;"	f
+ISR	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^ISR(TIMER0_COMPA_vect)$/;"	f
+ISR	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^ISR(TIMER1_COMPA_vect)$/;"	f
+ISR	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^ISR(TIMER2_COMPA_vect)$/;"	f
+ISR	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^ISR(TIMER3_COMPA_vect)$/;"	f
+ISR	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^ISR(TIMER4_COMPA_vect)$/;"	f
+ISR	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^ISR(TIMER5_COMPA_vect)$/;"	f
+ISR	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^ISR(USB_COM_vect)$/;"	f
+ISR	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^ISR(USB_GEN_vect)$/;"	f
+ISR	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring.c	/^ISR(TIM0_OVF_vect)$/;"	f
+InitControl	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^void InitControl(int end)$/;"	f
+InitEP	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^void InitEP(u8 index, u8 type, u8 size)$/;"	f	file:
+InitEndpoints	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^void InitEndpoints()$/;"	f	file:
+InterfaceDescriptor	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^} InterfaceDescriptor;$/;"	t	typeref:struct:__anon8
+LED_BUILTIN	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define LED_BUILTIN /;"	d
+LED_BUILTIN_RX	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define LED_BUILTIN_RX /;"	d
+LED_BUILTIN_TX	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define LED_BUILTIN_TX /;"	d
+LOW	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define LOW /;"	d
+LSBFIRST	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define LSBFIRST /;"	d
+LineInfo	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^} LineInfo;$/;"	t	typeref:struct:__anon1	file:
+LockEP	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^	LockEP(u8 ep) : _sreg(SREG)$/;"	f	class:LockEP
+LockEP	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^class LockEP$/;"	c	file:
+LookaheadMode	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^enum LookaheadMode{$/;"	g
+MAGIC_KEY	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^#define MAGIC_KEY /;"	d	file:
+MAGIC_KEY_POS	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^#define MAGIC_KEY_POS /;"	d	file:
+MARK_PARITY	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^		MARK_PARITY = 3,$/;"	e	enum:Serial_::__anon4
+MICROSECONDS_PER_TIMER0_OVERFLOW	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring.c	/^#define MICROSECONDS_PER_TIMER0_OVERFLOW /;"	d	file:
+MILLIS_INC	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring.c	/^#define MILLIS_INC /;"	d	file:
+MISO	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^static const uint8_t MISO = 14;$/;"	v
+MOSI	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^static const uint8_t MOSI = 16;$/;"	v
+MSBFIRST	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define MSBFIRST /;"	d
+MSCDescriptor	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^} MSCDescriptor;$/;"	t	typeref:struct:__anon16
+MSC_GET_MAX_LUN	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define MSC_GET_MAX_LUN	/;"	d
+MSC_PROTOCOL_BULK_ONLY	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define MSC_PROTOCOL_BULK_ONLY	/;"	d
+MSC_RESET	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define MSC_RESET	/;"	d
+MSC_SUBCLASS_SCSI	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define MSC_SUBCLASS_SCSI	/;"	d
+MultiTarget	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^  struct MultiTarget {$/;"	s	class:Stream
+NOT_AN_INTERRUPT	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define NOT_AN_INTERRUPT /;"	d
+NOT_A_PIN	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define NOT_A_PIN /;"	d
+NOT_A_PORT	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define NOT_A_PORT /;"	d
+NOT_ON_TIMER	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define NOT_ON_TIMER /;"	d
+NO_IGNORE_CHAR	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^#define NO_IGNORE_CHAR /;"	d
+NO_IGNORE_CHAR	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^#undef NO_IGNORE_CHAR$/;"	d
+NO_PARITY	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^		NO_PARITY = 0,$/;"	e	enum:Serial_::__anon4
+NUM_ANALOG_INPUTS	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define NUM_ANALOG_INPUTS /;"	d
+NUM_DIGITAL_PINS	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define NUM_DIGITAL_PINS /;"	d
+OCIE2A	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^#define OCIE2A /;"	d	file:
+OCR2A	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^#define OCR2A /;"	d	file:
+OCR2A	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef OCR2A$/;"	d
+OCR2B	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef OCR2B$/;"	d
+OCR2_0	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef OCR2_0$/;"	d
+OCR2_1	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef OCR2_1$/;"	d
+OCR2_2	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef OCR2_2$/;"	d
+OCR2_3	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef OCR2_3$/;"	d
+OCR2_4	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef OCR2_4$/;"	d
+OCR2_5	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef OCR2_5$/;"	d
+OCR2_6	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef OCR2_6$/;"	d
+OCR2_7	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef OCR2_7$/;"	d
+OCT	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.h	/^#define OCT /;"	d
+ODD_PARITY	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^		ODD_PARITY = 1,$/;"	e	enum:Serial_::__anon4
+ONE_AND_HALF_STOP_BIT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^		ONE_AND_HALF_STOP_BIT = 1,$/;"	e	enum:Serial_::__anon3
+ONE_STOP_BIT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^		ONE_STOP_BIT = 0,$/;"	e	enum:Serial_::__anon3
+OUTPUT	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define OUTPUT /;"	d
+PA	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define PA /;"	d
+PARSE_TIMEOUT	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.cpp	/^#define PARSE_TIMEOUT /;"	d	file:
+PB	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define PB /;"	d
+PC	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define PC /;"	d
+PD	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define PD /;"	d
+PE	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define PE /;"	d
+PF	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define PF /;"	d
+PG	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define PG /;"	d
+PH	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define PH /;"	d
+PI	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define PI /;"	d
+PJ	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define PJ /;"	d
+PK	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define PK /;"	d
+PL	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define PL /;"	d
+PLUGGABLE_USB_ENABLED	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBDesc.h	/^#define PLUGGABLE_USB_ENABLED$/;"	d
+PROGMEM	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^const u8 STRING_MANUFACTURER[] PROGMEM = USB_MANUFACTURER;$/;"	v
+PROGMEM	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^const u8 STRING_PRODUCT[] PROGMEM = USB_PRODUCT;$/;"	v
+PUSB_h	.pioenvs/sparkfun_promicro16/FrameworkArduino/PluggableUSB.h	/^#define PUSB_h$/;"	d
+Pins_Arduino_h	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define Pins_Arduino_h$/;"	d
+PluggableUSB	.pioenvs/sparkfun_promicro16/FrameworkArduino/PluggableUSB.cpp	/^PluggableUSB_& PluggableUSB()$/;"	f
+PluggableUSBModule	.pioenvs/sparkfun_promicro16/FrameworkArduino/PluggableUSB.h	/^  PluggableUSBModule(uint8_t numEps, uint8_t numIfs, uint8_t *epType) :$/;"	f	class:PluggableUSBModule
+PluggableUSBModule	.pioenvs/sparkfun_promicro16/FrameworkArduino/PluggableUSB.h	/^class PluggableUSBModule {$/;"	c
+PluggableUSB_	.pioenvs/sparkfun_promicro16/FrameworkArduino/PluggableUSB.cpp	/^PluggableUSB_::PluggableUSB_() : lastIf(CDC_ACM_INTERFACE + CDC_INTERFACE_COUNT),$/;"	f	class:PluggableUSB_
+PluggableUSB_	.pioenvs/sparkfun_promicro16/FrameworkArduino/PluggableUSB.h	/^class PluggableUSB_ {$/;"	c
+Print	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.h	/^    Print() : write_error(0) {}$/;"	f	class:Print
+Print	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.h	/^class Print$/;"	c
+Print_h	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.h	/^#define Print_h$/;"	d
+Printable	.pioenvs/sparkfun_promicro16/FrameworkArduino/Printable.h	/^class Printable$/;"	c
+Printable_h	.pioenvs/sparkfun_promicro16/FrameworkArduino/Printable.h	/^#define Printable_h$/;"	d
+RAD_TO_DEG	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define RAD_TO_DEG /;"	d
+REQUEST_CLASS	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define REQUEST_CLASS	/;"	d
+REQUEST_DEVICE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define REQUEST_DEVICE	/;"	d
+REQUEST_DEVICETOHOST	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define REQUEST_DEVICETOHOST	/;"	d
+REQUEST_DEVICETOHOST_CLASS_INTERFACE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define REQUEST_DEVICETOHOST_CLASS_INTERFACE /;"	d
+REQUEST_DEVICETOHOST_STANDARD_INTERFACE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define REQUEST_DEVICETOHOST_STANDARD_INTERFACE /;"	d
+REQUEST_DIRECTION	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define REQUEST_DIRECTION	/;"	d
+REQUEST_ENDPOINT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define REQUEST_ENDPOINT	/;"	d
+REQUEST_HOSTTODEVICE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define REQUEST_HOSTTODEVICE	/;"	d
+REQUEST_HOSTTODEVICE_CLASS_INTERFACE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define REQUEST_HOSTTODEVICE_CLASS_INTERFACE /;"	d
+REQUEST_INTERFACE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define REQUEST_INTERFACE	/;"	d
+REQUEST_OTHER	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define REQUEST_OTHER	/;"	d
+REQUEST_RECIPIENT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define REQUEST_RECIPIENT	/;"	d
+REQUEST_STANDARD	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define REQUEST_STANDARD	/;"	d
+REQUEST_TYPE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define REQUEST_TYPE	/;"	d
+REQUEST_VENDOR	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define REQUEST_VENDOR	/;"	d
+RISING	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define RISING /;"	d
+RXCIE0	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial_private.h	/^#define RXCIE0 /;"	d
+RXEN0	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial_private.h	/^#define RXEN0 /;"	d
+RXLED0	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define RXLED0 /;"	d
+RXLED1	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define RXLED1 /;"	d
+ReadWriteAllowed	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static inline u8 ReadWriteAllowed()$/;"	f	file:
+ReceivedSetupInt	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static inline u8 ReceivedSetupInt()$/;"	f	file:
+Recv	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static inline void Recv(volatile u8* data, u8 count)$/;"	f	file:
+Recv8	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static inline u8 Recv8()$/;"	f	file:
+ReleaseRX	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static inline void ReleaseRX()$/;"	f	file:
+ReleaseTX	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static inline void ReleaseTX()$/;"	f	file:
+RxLEDPulse	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^volatile u8 RxLEDPulse; \/**< Milliseconds remaining for data Rx LED pulse *\/$/;"	v
+SCK	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^static const uint8_t SCK  = 15;$/;"	v
+SCL	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^static const uint8_t SCL = 3;$/;"	v
+SDA	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^static const uint8_t SDA = 2;$/;"	v
+SERIAL	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define SERIAL /;"	d
+SERIAL_5E1	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_5E1 /;"	d
+SERIAL_5E2	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_5E2 /;"	d
+SERIAL_5N1	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_5N1 /;"	d
+SERIAL_5N2	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_5N2 /;"	d
+SERIAL_5O1	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_5O1 /;"	d
+SERIAL_5O2	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_5O2 /;"	d
+SERIAL_6E1	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_6E1 /;"	d
+SERIAL_6E2	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_6E2 /;"	d
+SERIAL_6N1	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_6N1 /;"	d
+SERIAL_6N2	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_6N2 /;"	d
+SERIAL_6O1	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_6O1 /;"	d
+SERIAL_6O2	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_6O2 /;"	d
+SERIAL_7E1	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_7E1 /;"	d
+SERIAL_7E2	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_7E2 /;"	d
+SERIAL_7N1	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_7N1 /;"	d
+SERIAL_7N2	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_7N2 /;"	d
+SERIAL_7O1	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_7O1 /;"	d
+SERIAL_7O2	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_7O2 /;"	d
+SERIAL_8E1	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_8E1 /;"	d
+SERIAL_8E2	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_8E2 /;"	d
+SERIAL_8N1	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_8N1 /;"	d
+SERIAL_8N2	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_8N2 /;"	d
+SERIAL_8O1	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_8O1 /;"	d
+SERIAL_8O2	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_8O2 /;"	d
+SERIAL_BUFFER_SIZE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^#define SERIAL_BUFFER_SIZE /;"	d
+SERIAL_PORT_HARDWARE	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define SERIAL_PORT_HARDWARE /;"	d
+SERIAL_PORT_HARDWARE_OPEN	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define SERIAL_PORT_HARDWARE_OPEN /;"	d
+SERIAL_PORT_MONITOR	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define SERIAL_PORT_MONITOR /;"	d
+SERIAL_PORT_USBVIRTUAL	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define SERIAL_PORT_USBVIRTUAL /;"	d
+SERIAL_RX_BUFFER_SIZE	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_RX_BUFFER_SIZE /;"	d
+SERIAL_TX_BUFFER_SIZE	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^#define SERIAL_TX_BUFFER_SIZE /;"	d
+SET_ADDRESS	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define SET_ADDRESS	/;"	d
+SET_CONFIGURATION	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define SET_CONFIGURATION	/;"	d
+SET_DESCRIPTOR	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define SET_DESCRIPTOR	/;"	d
+SET_FEATURE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define SET_FEATURE	/;"	d
+SET_INTERFACE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define SET_INTERFACE	/;"	d
+SKIP_ALL	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^    SKIP_ALL,       \/\/ All invalid characters are ignored.$/;"	e	enum:LookaheadMode
+SKIP_NONE	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^    SKIP_NONE,      \/\/ Nothing is skipped, and the stream is not touched unless the first waiting character is valid.$/;"	e	enum:LookaheadMode
+SKIP_WHITESPACE	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^    SKIP_WHITESPACE \/\/ Only tabs, spaces, line feeds & carriage returns are skipped.$/;"	e	enum:LookaheadMode
+SPACE_PARITY	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^		SPACE_PARITY = 4,$/;"	e	enum:Serial_::__anon4
+SS	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^static const uint8_t SS   = 17;$/;"	v
+STRING_LANGUAGE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^const u16 STRING_LANGUAGE[2] = {$/;"	v
+Send8	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static inline void Send8(u8 d)$/;"	f	file:
+SendConfiguration	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^bool SendConfiguration(int maxlen)$/;"	f	file:
+SendControl	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^bool SendControl(u8 d)$/;"	f	file:
+SendDescriptor	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^bool SendDescriptor(USBSetup& setup)$/;"	f	file:
+SendInterfaces	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static u8 SendInterfaces()$/;"	f	file:
+Serial	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^Serial_ Serial;$/;"	v
+Serial	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial0.cpp	/^  HardwareSerial Serial(&UBRR0H, &UBRR0L, &UCSR0A, &UCSR0B, &UCSR0C, &UDR0);$/;"	v
+Serial	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial0.cpp	/^  HardwareSerial Serial(&UBRRH, &UBRRL, &UCSRA, &UCSRB, &UCSRC, &UDR);$/;"	v
+Serial0_available	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial0.cpp	/^bool Serial0_available() {$/;"	f
+Serial1	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial1.cpp	/^HardwareSerial Serial1(&UBRR1H, &UBRR1L, &UCSR1A, &UCSR1B, &UCSR1C, &UDR1);$/;"	v
+Serial1_available	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial1.cpp	/^bool Serial1_available() {$/;"	f
+Serial2	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial2.cpp	/^HardwareSerial Serial2(&UBRR2H, &UBRR2L, &UCSR2A, &UCSR2B, &UCSR2C, &UDR2);$/;"	v
+Serial2_available	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial2.cpp	/^bool Serial2_available() {$/;"	f
+Serial3	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial3.cpp	/^HardwareSerial Serial3(&UBRR3H, &UBRR3L, &UCSR3A, &UCSR3B, &UCSR3C, &UDR3);$/;"	v
+Serial3_available	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial3.cpp	/^bool Serial3_available() {$/;"	f
+SerialUSB	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define SerialUSB /;"	d
+Serial_	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^	Serial_() { peek_buffer = -1; };$/;"	f	class:Serial_
+Serial_	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^class Serial_ : public Stream$/;"	c
+SetEP	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static inline void SetEP(u8 ep)$/;"	f	file:
+Stall	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static inline void Stall()$/;"	f	file:
+Stalled	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static inline u8 Stalled()$/;"	f	file:
+Stream	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^    Stream() {_timeout=1000;}$/;"	f	class:Stream
+Stream	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^class Stream : public Print$/;"	c
+Stream_h	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^#define Stream_h$/;"	d
+String	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String::String(String &&rval)$/;"	f	class:String
+String	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String::String(StringSumHelper &&rval)$/;"	f	class:String
+String	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String::String(char c)$/;"	f	class:String
+String	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String::String(const String &value)$/;"	f	class:String
+String	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String::String(const __FlashStringHelper *pstr)$/;"	f	class:String
+String	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String::String(const char *cstr)$/;"	f	class:String
+String	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String::String(double value, unsigned char decimalPlaces)$/;"	f	class:String
+String	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String::String(float value, unsigned char decimalPlaces)$/;"	f	class:String
+String	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String::String(int value, unsigned char base)$/;"	f	class:String
+String	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String::String(long value, unsigned char base)$/;"	f	class:String
+String	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String::String(unsigned char value, unsigned char base)$/;"	f	class:String
+String	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String::String(unsigned int value, unsigned char base)$/;"	f	class:String
+String	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String::String(unsigned long value, unsigned char base)$/;"	f	class:String
+String	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^class String$/;"	c
+StringIfHelper	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	void StringIfHelper() const {}$/;"	f	class:String
+StringSumHelper	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	StringSumHelper(char c) : String(c) {}$/;"	f	class:StringSumHelper
+StringSumHelper	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	StringSumHelper(const String &s) : String(s) {}$/;"	f	class:StringSumHelper
+StringSumHelper	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	StringSumHelper(const char *p) : String(p) {}$/;"	f	class:StringSumHelper
+StringSumHelper	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	StringSumHelper(double num) : String(num) {}$/;"	f	class:StringSumHelper
+StringSumHelper	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	StringSumHelper(float num) : String(num) {}$/;"	f	class:StringSumHelper
+StringSumHelper	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	StringSumHelper(int num) : String(num) {}$/;"	f	class:StringSumHelper
+StringSumHelper	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	StringSumHelper(long num) : String(num) {}$/;"	f	class:StringSumHelper
+StringSumHelper	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	StringSumHelper(unsigned char num) : String(num) {}$/;"	f	class:StringSumHelper
+StringSumHelper	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	StringSumHelper(unsigned int num) : String(num) {}$/;"	f	class:StringSumHelper
+StringSumHelper	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	StringSumHelper(unsigned long num) : String(num) {}$/;"	f	class:StringSumHelper
+StringSumHelper	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^class StringSumHelper : public String$/;"	c
+String_class_h	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^#define String_class_h$/;"	d
+TCCR2A	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^#define TCCR2A /;"	d	file:
+TCCR2A	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef TCCR2A$/;"	d
+TCCR2B	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^#define TCCR2B /;"	d	file:
+TCCR2B	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef TCCR2B$/;"	d
+TCNT2	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef TCNT2$/;"	d
+TCNT2_0	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef TCNT2_0$/;"	d
+TCNT2_1	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef TCNT2_1$/;"	d
+TCNT2_2	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef TCNT2_2$/;"	d
+TCNT2_3	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef TCNT2_3$/;"	d
+TCNT2_4	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef TCNT2_4$/;"	d
+TCNT2_5	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef TCNT2_5$/;"	d
+TCNT2_6	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef TCNT2_6$/;"	d
+TCNT2_7	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef TCNT2_7$/;"	d
+TEST_MODE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define TEST_MODE /;"	d
+TIMER0A	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define TIMER0A /;"	d
+TIMER0B	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define TIMER0B /;"	d
+TIMER1A	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define TIMER1A /;"	d
+TIMER1B	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define TIMER1B /;"	d
+TIMER1C	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define TIMER1C /;"	d
+TIMER2	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define TIMER2 /;"	d
+TIMER2A	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define TIMER2A /;"	d
+TIMER2B	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define TIMER2B /;"	d
+TIMER2_COMPA_vect	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^#define TIMER2_COMPA_vect /;"	d	file:
+TIMER3A	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define TIMER3A /;"	d
+TIMER3B	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define TIMER3B /;"	d
+TIMER3C	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define TIMER3C /;"	d
+TIMER4A	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define TIMER4A /;"	d
+TIMER4B	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define TIMER4B /;"	d
+TIMER4C	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define TIMER4C /;"	d
+TIMER4D	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define TIMER4D /;"	d
+TIMER5A	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define TIMER5A /;"	d
+TIMER5B	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define TIMER5B /;"	d
+TIMER5C	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define TIMER5C /;"	d
+TIMSK1	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^#define TIMSK1 /;"	d	file:
+TIMSK2	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^#define TIMSK2 /;"	d	file:
+TOBYTES	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define TOBYTES(/;"	d
+TRANSFER_PGM	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^#define TRANSFER_PGM	/;"	d
+TRANSFER_RELEASE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^#define TRANSFER_RELEASE	/;"	d
+TRANSFER_ZERO	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^#define TRANSFER_ZERO	/;"	d
+TWO_PI	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define TWO_PI /;"	d
+TWO_STOP_BITS	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^		TWO_STOP_BITS = 2,$/;"	e	enum:Serial_::__anon3
+TXC0	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial_private.h	/^#define TXC0 /;"	d
+TXEN0	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial_private.h	/^#define TXEN0 /;"	d
+TXLED0	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define TXLED0 /;"	d
+TXLED1	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define TXLED1 /;"	d
+TX_RX_LED_INIT	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define TX_RX_LED_INIT /;"	d
+TX_RX_LED_PULSE_MS	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^#define TX_RX_LED_PULSE_MS /;"	d	file:
+TxLEDPulse	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^volatile u8 TxLEDPulse; \/**< Milliseconds remaining for data Tx LED pulse *\/$/;"	v
+U2X0	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial_private.h	/^#define U2X0 /;"	d
+UDRE0	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial_private.h	/^#define UDRE0 /;"	d
+UDRIE0	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial_private.h	/^#define UDRIE0 /;"	d
+UHADDR	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef UHADDR$/;"	d
+UHCON	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef UHCON$/;"	d
+UHFLEN	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef UHFLEN$/;"	d
+UHFNUM	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef UHFNUM$/;"	d
+UHFNUMH	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef UHFNUMH$/;"	d
+UHFNUML	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef UHFNUML$/;"	d
+UHIEN	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef UHIEN$/;"	d
+UHINT	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef UHINT$/;"	d
+UPCFG0X	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef UPCFG0X$/;"	d
+UPCFG1X	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef UPCFG1X$/;"	d
+UPCFG2X	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef UPCFG2X$/;"	d
+UPCONX	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef UPCONX$/;"	d
+UPDATX	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef UPDATX$/;"	d
+UPE	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial_private.h	/^#define UPE /;"	d
+UPE0	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial_private.h	/^#define UPE0 /;"	d
+UPIENX	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef UPIENX$/;"	d
+UPINRQX	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef UPINRQX$/;"	d
+UPINTX	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef UPINTX$/;"	d
+UPNUM	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef UPNUM$/;"	d
+UPRST	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef UPRST$/;"	d
+UPSTAX	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef UPSTAX$/;"	d
+USBConnected	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^u8 USBConnected()$/;"	f
+USBDevice	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^USBDevice_ USBDevice;$/;"	v
+USBDevice_	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^class USBDevice_$/;"	c
+USBDevice_	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^USBDevice_::USBDevice_()$/;"	f	class:USBDevice_
+USBGetConfiguration	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^u8 USBGetConfiguration(void)$/;"	f
+USBSetup	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^} USBSetup;$/;"	t	typeref:struct:__anon5
+USB_Available	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^u8 USB_Available(u8 ep)$/;"	f
+USB_CONFIGUARTION_DESC_SIZE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_CONFIGUARTION_DESC_SIZE /;"	d
+USB_CONFIGURATION_DESCRIPTOR_TYPE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_CONFIGURATION_DESCRIPTOR_TYPE /;"	d
+USB_CONFIG_BUS_POWERED	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_CONFIG_BUS_POWERED /;"	d
+USB_CONFIG_POWERED_MASK	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_CONFIG_POWERED_MASK /;"	d
+USB_CONFIG_POWER_MA	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_CONFIG_POWER_MA(/;"	d
+USB_CONFIG_REMOTE_WAKEUP	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_CONFIG_REMOTE_WAKEUP /;"	d
+USB_CONFIG_SELF_POWERED	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_CONFIG_SELF_POWERED /;"	d
+USB_ClockDisable	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static inline void USB_ClockDisable()$/;"	f	file:
+USB_ClockEnable	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static inline void USB_ClockEnable()$/;"	f	file:
+USB_DEVICE_CLASS_COMMUNICATIONS	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_DEVICE_CLASS_COMMUNICATIONS /;"	d
+USB_DEVICE_CLASS_HUMAN_INTERFACE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_DEVICE_CLASS_HUMAN_INTERFACE /;"	d
+USB_DEVICE_CLASS_STORAGE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_DEVICE_CLASS_STORAGE /;"	d
+USB_DEVICE_CLASS_VENDOR_SPECIFIC	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_DEVICE_CLASS_VENDOR_SPECIFIC /;"	d
+USB_DEVICE_DESCRIPTOR_TYPE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_DEVICE_DESCRIPTOR_TYPE /;"	d
+USB_DEVICE_DESC_SIZE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_DEVICE_DESC_SIZE /;"	d
+USB_DeviceDescriptor	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^const DeviceDescriptor USB_DeviceDescriptor =$/;"	v
+USB_DeviceDescriptorB	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^const DeviceDescriptor USB_DeviceDescriptorB =$/;"	v
+USB_ENDPOINTS	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBDesc.h	/^#define USB_ENDPOINTS /;"	d
+USB_ENDPOINT_DESCRIPTOR_TYPE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_ENDPOINT_DESCRIPTOR_TYPE /;"	d
+USB_ENDPOINT_DESC_SIZE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_ENDPOINT_DESC_SIZE /;"	d
+USB_ENDPOINT_DIRECTION_MASK	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_ENDPOINT_DIRECTION_MASK /;"	d
+USB_ENDPOINT_IN	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_ENDPOINT_IN(/;"	d
+USB_ENDPOINT_OUT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_ENDPOINT_OUT(/;"	d
+USB_ENDPOINT_TYPE_BULK	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_ENDPOINT_TYPE_BULK /;"	d
+USB_ENDPOINT_TYPE_CONTROL	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_ENDPOINT_TYPE_CONTROL /;"	d
+USB_ENDPOINT_TYPE_INTERRUPT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_ENDPOINT_TYPE_INTERRUPT /;"	d
+USB_ENDPOINT_TYPE_ISOCHRONOUS	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_ENDPOINT_TYPE_ISOCHRONOUS /;"	d
+USB_ENDPOINT_TYPE_MASK	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_ENDPOINT_TYPE_MASK /;"	d
+USB_EP_SIZE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^#define USB_EP_SIZE /;"	d
+USB_Flush	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^void USB_Flush(u8 ep)$/;"	f
+USB_INTERFACE_DESCRIPTOR_TYPE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_INTERFACE_DESCRIPTOR_TYPE /;"	d
+USB_INTERFACE_DESC_SIZE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_INTERFACE_DESC_SIZE /;"	d
+USB_MANUFACTURER	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^#    undef USB_MANUFACTURER$/;"	d	file:
+USB_MANUFACTURER	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^#  define USB_MANUFACTURER /;"	d	file:
+USB_PRODUCT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^#define USB_PRODUCT /;"	d	file:
+USB_RECV_TIMEOUT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^#define USB_RECV_TIMEOUT$/;"	d	file:
+USB_Recv	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^int USB_Recv(u8 ep)$/;"	f
+USB_Recv	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^int USB_Recv(u8 ep, void* d, int len)$/;"	f
+USB_RecvControl	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^int USB_RecvControl(void* d, int len)$/;"	f
+USB_STRING_DESCRIPTOR_TYPE	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define USB_STRING_DESCRIPTOR_TYPE /;"	d
+USB_Send	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^int USB_Send(u8 ep, const void* d, int len)$/;"	f
+USB_SendControl	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^int USB_SendControl(u8 flags, const void* d, int len)$/;"	f
+USB_SendSpace	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^u8 USB_SendSpace(u8 ep)$/;"	f
+USB_SendStringDescriptor	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static bool USB_SendStringDescriptor(const u8*string_P, u8 string_len, uint8_t flags) {$/;"	f	file:
+USE_TIMER2	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^#define USE_TIMER2$/;"	d	file:
+USE_TIMER3	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^#define USE_TIMER3$/;"	d	file:
+WEAK	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^#define WEAK /;"	d	file:
+WGM20	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef WGM20$/;"	d
+WGM21	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef WGM21$/;"	d
+WGM22	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#undef WGM22$/;"	d
+WaitForINOrOUT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static inline u8 WaitForINOrOUT()$/;"	f	file:
+WaitIN	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static inline void WaitIN(void)$/;"	f	file:
+WaitOUT	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static inline void WaitOUT(void)$/;"	f	file:
+WiringPrivate_h	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_private.h	/^#define WiringPrivate_h$/;"	d
+_NOP	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define _NOP(/;"	d
+__USBAPI__	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^#define __USBAPI__$/;"	d
+__USBCORE_H__	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^#define __USBCORE_H__$/;"	d
+__cxa_deleted_virtual	.pioenvs/sparkfun_promicro16/FrameworkArduino/abi.cpp	/^void __cxa_deleted_virtual(void) {$/;"	f
+__cxa_pure_virtual	.pioenvs/sparkfun_promicro16/FrameworkArduino/abi.cpp	/^void __cxa_pure_virtual(void) {$/;"	f
+__empty	.pioenvs/sparkfun_promicro16/FrameworkArduino/hooks.c	/^static void __empty() {$/;"	f	file:
+_address	.pioenvs/sparkfun_promicro16/FrameworkArduino/IPAddress.h	/^    } _address;$/;"	m	class:IPAddress	typeref:union:IPAddress::__anon2
+_cdcComposite	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static u8 _cdcComposite = 0;$/;"	v	file:
+_cdcInterface	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^const CDCDescriptor _cdcInterface =$/;"	v
+_cend	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static int _cend;$/;"	v	file:
+_cmark	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^static int _cmark;$/;"	v	file:
+_initEndpoints	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^u8 _initEndpoints[USB_ENDPOINTS] =$/;"	v
+_rx_buffer	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^    unsigned char _rx_buffer[SERIAL_RX_BUFFER_SIZE];$/;"	m	class:HardwareSerial
+_rx_buffer	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^	unsigned char _rx_buffer[SERIAL_BUFFER_SIZE];$/;"	m	class:Serial_
+_rx_buffer_head	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^    volatile rx_buffer_index_t _rx_buffer_head;$/;"	m	class:HardwareSerial
+_rx_buffer_head	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^	volatile uint8_t _rx_buffer_head;$/;"	m	class:Serial_
+_rx_buffer_tail	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^    volatile rx_buffer_index_t _rx_buffer_tail;$/;"	m	class:HardwareSerial
+_rx_buffer_tail	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^	volatile uint8_t _rx_buffer_tail;$/;"	m	class:Serial_
+_rx_complete_irq	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial_private.h	/^void HardwareSerial::_rx_complete_irq(void)$/;"	f	class:HardwareSerial
+_sreg	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^	u8 _sreg;$/;"	m	class:LockEP	file:
+_startMillis	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^    unsigned long _startMillis;  \/\/ used for timeout measurement$/;"	m	class:Stream
+_timeout	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^    unsigned long _timeout;      \/\/ number of milliseconds to wait for the next char before aborting timed read$/;"	m	class:Stream
+_tx_buffer	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^    unsigned char _tx_buffer[SERIAL_TX_BUFFER_SIZE];$/;"	m	class:HardwareSerial
+_tx_buffer_head	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^    volatile tx_buffer_index_t _tx_buffer_head;$/;"	m	class:HardwareSerial
+_tx_buffer_tail	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^    volatile tx_buffer_index_t _tx_buffer_tail;$/;"	m	class:HardwareSerial
+_tx_udr_empty_irq	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.cpp	/^void HardwareSerial::_tx_udr_empty_irq(void)$/;"	f	class:HardwareSerial
+_ubrrh	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^    volatile uint8_t * const _ubrrh;$/;"	m	class:HardwareSerial
+_ubrrl	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^    volatile uint8_t * const _ubrrl;$/;"	m	class:HardwareSerial
+_ucsra	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^    volatile uint8_t * const _ucsra;$/;"	m	class:HardwareSerial
+_ucsrb	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^    volatile uint8_t * const _ucsrb;$/;"	m	class:HardwareSerial
+_ucsrc	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^    volatile uint8_t * const _ucsrc;$/;"	m	class:HardwareSerial
+_udr	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^    volatile uint8_t * const _udr;$/;"	m	class:HardwareSerial
+_usbConfiguration	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^volatile u8 _usbConfiguration = 0;$/;"	v
+_usbCurrentStatus	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^volatile u8 _usbCurrentStatus = 0; \/\/ meaning of bits see usb_20.pdf, Figure 9-4. Information Returned by a GetStatus() Request to a Device$/;"	v
+_usbLineInfo	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^static volatile LineInfo _usbLineInfo = { 57600, 0x00, 0x00, 0x00, 0x00 };$/;"	v	file:
+_usbSuspendState	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^volatile u8 _usbSuspendState = 0; \/\/ copy of UDINT to check SUSPI and WAKEUPI bits$/;"	v
+_written	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^    bool _written;$/;"	m	class:HardwareSerial
+abs	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define abs(/;"	d
+abs	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#undef abs$/;"	d
+addr	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 addr;$/;"	m	struct:__anon9
+alternate	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 alternate;$/;"	m	struct:__anon8
+analogInPinToBit	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define analogInPinToBit(/;"	d
+analogPinToChannel	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define analogPinToChannel(/;"	d
+analogRead	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_analog.c	/^int analogRead(uint8_t pin)$/;"	f
+analogReference	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_analog.c	/^void analogReference(uint8_t mode)$/;"	f
+analogWrite	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_analog.c	/^void analogWrite(uint8_t pin, int val)$/;"	f
+analog_pin_to_channel_PGM	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^const uint8_t PROGMEM analog_pin_to_channel_PGM[] = {$/;"	v
+analog_reference	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_analog.c	/^uint8_t analog_reference = DEFAULT;$/;"	v
+atexit	.pioenvs/sparkfun_promicro16/FrameworkArduino/main.cpp	/^int atexit(void (* \/*func*\/ )()) { return 0; }$/;"	f
+attach	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^void USBDevice_::attach()$/;"	f	class:USBDevice_
+attachInterrupt	.pioenvs/sparkfun_promicro16/FrameworkArduino/WInterrupts.c	/^void attachInterrupt(uint8_t interruptNum, void (*userFunc)(void), int mode) {$/;"	f
+attr	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 attr;$/;"	m	struct:__anon9
+attributes	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8	attributes;$/;"	m	struct:__anon7
+available	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^int Serial_::available(void)$/;"	f	class:Serial_
+available	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.cpp	/^int HardwareSerial::available(void)$/;"	f	class:HardwareSerial
+availableForWrite	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^int Serial_::availableForWrite(void)$/;"	f	class:Serial_
+availableForWrite	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.cpp	/^int HardwareSerial::availableForWrite(void)$/;"	f	class:HardwareSerial
+bCharFormat	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^	u8	bCharFormat;$/;"	m	struct:__anon1	file:
+bDataBits	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^	u8 	bDataBits;$/;"	m	struct:__anon1	file:
+bDataInterface	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^    u8 	bDataInterface;$/;"	m	struct:__anon13
+bNumConfigurations	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8	bNumConfigurations;$/;"	m	struct:__anon6
+bParityType	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^	u8 	bParityType;$/;"	m	struct:__anon1	file:
+bRequest	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^	uint8_t bRequest;$/;"	m	struct:__anon5
+baud	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^unsigned long Serial_::baud() {$/;"	f	class:Serial_
+begin	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^void Serial_::begin(unsigned long \/* baud_count *\/)$/;"	f	class:Serial_
+begin	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^void Serial_::begin(unsigned long \/* baud_count *\/, byte \/* config *\/)$/;"	f	class:Serial_
+begin	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.cpp	/^void HardwareSerial::begin(unsigned long baud, byte config)$/;"	f	class:HardwareSerial
+begin	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^    void begin(unsigned long baud) { begin(baud, SERIAL_8N1); }$/;"	f	class:HardwareSerial
+bit	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define bit(/;"	d
+bitClear	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define bitClear(/;"	d
+bitRead	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define bitRead(/;"	d
+bitSet	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define bitSet(/;"	d
+bitWrite	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define bitWrite(/;"	d
+bmCapabilities	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^    u8 	bmCapabilities;$/;"	m	struct:__anon13
+bmCapabilities	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^    u8 	bmCapabilities;$/;"	m	struct:__anon14
+bmRequestType	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^	uint8_t bmRequestType;$/;"	m	struct:__anon5
+boolean	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^typedef bool boolean;$/;"	t
+breakValue	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^static volatile int32_t breakValue = -1;$/;"	v	file:
+buffer	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	char *buffer;	        \/\/ the actual char array$/;"	m	class:String
+byte	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^typedef uint8_t byte;$/;"	t
+bytes	.pioenvs/sparkfun_promicro16/FrameworkArduino/IPAddress.h	/^	uint8_t bytes[4];  \/\/ IPv4 address$/;"	m	union:IPAddress::__anon2
+c_str	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	const char * c_str() const { return buffer; }$/;"	f	class:String
+callManagement	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	CMFunctionalDescriptor		callManagement;			\/\/ Call Management$/;"	m	struct:__anon15
+capacity	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	unsigned int capacity;  \/\/ the array length minus one (for the '\\0')$/;"	m	class:String
+cbi	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_private.h	/^#define cbi(/;"	d
+changeBuffer	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::changeBuffer(unsigned int maxStrLen)$/;"	f	class:String
+charAt	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^char String::charAt(unsigned int loc) const$/;"	f	class:String
+cif	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	InterfaceDescriptor			cif;	\/\/ $/;"	m	struct:__anon15
+cifin	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	EndpointDescriptor			cifin;$/;"	m	struct:__anon15
+clearWriteError	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.h	/^    void clearWriteError() { setWriteError(0); }$/;"	f	class:Print
+clen	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u16 clen;			\/\/ total length$/;"	m	struct:__anon7
+clockCyclesPerMicrosecond	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define clockCyclesPerMicrosecond(/;"	d
+clockCyclesToMicroseconds	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define clockCyclesToMicroseconds(/;"	d
+compareTo	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^int String::compareTo(const String &s) const$/;"	f	class:String
+concat	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::concat(char c)$/;"	f	class:String
+concat	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::concat(const String &s)$/;"	f	class:String
+concat	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::concat(const __FlashStringHelper * str)$/;"	f	class:String
+concat	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::concat(const char *cstr)$/;"	f	class:String
+concat	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::concat(const char *cstr, unsigned int length)$/;"	f	class:String
+concat	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::concat(double num)$/;"	f	class:String
+concat	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::concat(float num)$/;"	f	class:String
+concat	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::concat(int num)$/;"	f	class:String
+concat	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::concat(long num)$/;"	f	class:String
+concat	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::concat(unsigned char num)$/;"	f	class:String
+concat	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::concat(unsigned int num)$/;"	f	class:String
+concat	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::concat(unsigned long num)$/;"	f	class:String
+config	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8	config;$/;"	m	struct:__anon7
+configured	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^bool USBDevice_::configured()$/;"	f	class:USBDevice_
+constrain	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define constrain(/;"	d
+controlManagement	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	ACMFunctionalDescriptor		controlManagement;		\/\/ ACM$/;"	m	struct:__anon15
+copy	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String & String::copy(const __FlashStringHelper *pstr, unsigned int length)$/;"	f	class:String
+copy	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String & String::copy(const char *cstr, unsigned int length)$/;"	f	class:String
+countPulseASM	.pioenvs/sparkfun_promicro16/FrameworkArduino/_wiring_pulse.S	/^countPulseASM:$/;"	l
+d0	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 d0;$/;"	m	struct:__anon11
+d0	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 d0;$/;"	m	struct:__anon12
+d1	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 d1;$/;"	m	struct:__anon11
+degrees	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define degrees(/;"	d
+delay	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring.c	/^void delay(unsigned long ms)$/;"	f
+delayMicroseconds	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring.c	/^void delayMicroseconds(unsigned int us)$/;"	f
+detach	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^void USBDevice_::detach()$/;"	f	class:USBDevice_
+detachInterrupt	.pioenvs/sparkfun_promicro16/FrameworkArduino/WInterrupts.c	/^void detachInterrupt(uint8_t interruptNum) {$/;"	f
+deviceClass	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8	deviceClass;$/;"	m	struct:__anon6
+deviceProtocol	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8	deviceProtocol;$/;"	m	struct:__anon6
+deviceSubClass	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8	deviceSubClass;$/;"	m	struct:__anon6
+deviceVersion	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u16	deviceVersion;	\/\/ 0x100$/;"	m	struct:__anon6
+dif	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	InterfaceDescriptor			dif;$/;"	m	struct:__anon15
+digitalPinToBitMask	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define digitalPinToBitMask(/;"	d
+digitalPinToInterrupt	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define digitalPinToInterrupt(/;"	d
+digitalPinToPCICR	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define digitalPinToPCICR(/;"	d
+digitalPinToPCICRbit	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define digitalPinToPCICRbit(/;"	d
+digitalPinToPCMSK	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define digitalPinToPCMSK(/;"	d
+digitalPinToPCMSKbit	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^#define digitalPinToPCMSKbit(/;"	d
+digitalPinToPort	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define digitalPinToPort(/;"	d
+digitalPinToTimer	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define digitalPinToTimer(/;"	d
+digitalRead	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_digital.c	/^int digitalRead(uint8_t pin)$/;"	f
+digitalWrite	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_digital.c	/^void digitalWrite(uint8_t pin, uint8_t val)$/;"	f
+digital_pin_to_bit_mask_PGM	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^const uint8_t PROGMEM digital_pin_to_bit_mask_PGM[] = {$/;"	v
+digital_pin_to_port_PGM	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^const uint8_t PROGMEM digital_pin_to_port_PGM[] = {$/;"	v
+digital_pin_to_timer_PGM	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^const uint8_t PROGMEM digital_pin_to_timer_PGM[] = {$/;"	v
+disableTimer	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^void disableTimer(uint8_t _timer)$/;"	f
+dtr	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^bool Serial_::dtr() {$/;"	f	class:Serial_
+dtype	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8	dtype;			\/\/ 2$/;"	m	struct:__anon7
+dtype	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 dtype;			\/\/ 1 USB_DEVICE_DESCRIPTOR_TYPE$/;"	m	struct:__anon6
+dtype	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 dtype;			\/\/ 11$/;"	m	struct:__anon10
+dtype	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 dtype;	\/\/ 0x24$/;"	m	struct:__anon11
+dtype	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 dtype;	\/\/ 0x24$/;"	m	struct:__anon12
+dtype	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 dtype;	\/\/ 4$/;"	m	struct:__anon8
+dtype	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 dtype;	\/\/ 5$/;"	m	struct:__anon9
+dtype	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^    u8 	dtype;		\/\/ 0x24$/;"	m	struct:__anon13
+dtype	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^    u8 	dtype;		\/\/ 0x24$/;"	m	struct:__anon14
+dwDTERate	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^	u32	dwDTERate;$/;"	m	struct:__anon1	file:
+dword	.pioenvs/sparkfun_promicro16/FrameworkArduino/IPAddress.h	/^	uint32_t dword;$/;"	m	union:IPAddress::__anon2
+end	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^void Serial_::end(void)$/;"	f	class:Serial_
+end	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.cpp	/^void HardwareSerial::end()$/;"	f	class:HardwareSerial
+endpointType	.pioenvs/sparkfun_promicro16/FrameworkArduino/PluggableUSB.h	/^  const uint8_t *endpointType;$/;"	m	class:PluggableUSBModule
+endsWith	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::endsWith( const String &s2 ) const$/;"	f	class:String
+equals	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::equals(const String &s2) const$/;"	f	class:String
+equals	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::equals(const char *cstr) const$/;"	f	class:String
+equalsIgnoreCase	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::equalsIgnoreCase( const String &s2 ) const$/;"	f	class:String
+find	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.cpp	/^bool  Stream::find(char *target)$/;"	f	class:Stream
+find	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.cpp	/^bool Stream::find(char *target, size_t length)$/;"	f	class:Stream
+find	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^  bool find(char target) { return find (&target, 1); }$/;"	f	class:Stream
+find	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^  bool find(uint8_t *target) { return find ((char *)target); }$/;"	f	class:Stream
+find	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^  bool find(uint8_t *target, size_t length) { return find ((char *)target, length); }$/;"	f	class:Stream
+findMulti	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.cpp	/^int Stream::findMulti( struct Stream::MultiTarget *targets, int tCount) {$/;"	f	class:Stream
+findUntil	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.cpp	/^bool  Stream::findUntil(char *target, char *terminator)$/;"	f	class:Stream
+findUntil	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.cpp	/^bool Stream::findUntil(char *target, size_t targetLen, char *terminator, size_t termLen)$/;"	f	class:Stream
+findUntil	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^  bool findUntil(uint8_t *target, char *terminator) { return findUntil((char *)target, terminator); }$/;"	f	class:Stream
+findUntil	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^  bool findUntil(uint8_t *target, size_t targetLen, char *terminate, size_t termLen) {return findUntil((char *)target, targetLen, terminate, termLen); }$/;"	f	class:Stream
+firstInterface	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 firstInterface;$/;"	m	struct:__anon10
+flush	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^void Serial_::flush(void)$/;"	f	class:Serial_
+flush	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.cpp	/^void HardwareSerial::flush()$/;"	f	class:HardwareSerial
+fromString	.pioenvs/sparkfun_promicro16/FrameworkArduino/IPAddress.cpp	/^bool IPAddress::fromString(const char *address)$/;"	f	class:IPAddress
+fromString	.pioenvs/sparkfun_promicro16/FrameworkArduino/IPAddress.h	/^    bool fromString(const String &address) { return fromString(address.c_str()); }$/;"	f	class:IPAddress
+functionClass	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 functionClass;$/;"	m	struct:__anon10
+functionProtocol	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 functionProtocol;$/;"	m	struct:__anon10
+functionalDescriptor	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	CDCCSInterfaceDescriptor	functionalDescriptor;	\/\/ CDC_UNION$/;"	m	struct:__anon15
+funtionSubClass	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 funtionSubClass;$/;"	m	struct:__anon10
+gate	src/sequencer.cpp	/^int gate = 0;$/;"	v
+gatePin	src/sequencer.cpp	/^int gatePin = 2;$/;"	v
+getBytes	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^void String::getBytes(unsigned char *buf, unsigned int bufsize, unsigned int index) const$/;"	f	class:String
+getDescriptor	.pioenvs/sparkfun_promicro16/FrameworkArduino/PluggableUSB.cpp	/^int PluggableUSB_::getDescriptor(USBSetup& setup)$/;"	f	class:PluggableUSB_
+getInterface	.pioenvs/sparkfun_promicro16/FrameworkArduino/PluggableUSB.cpp	/^int PluggableUSB_::getInterface(uint8_t* interfaceCount)$/;"	f	class:PluggableUSB_
+getShortName	.pioenvs/sparkfun_promicro16/FrameworkArduino/PluggableUSB.cpp	/^void PluggableUSB_::getShortName(char *iSerialNum)$/;"	f	class:PluggableUSB_
+getShortName	.pioenvs/sparkfun_promicro16/FrameworkArduino/PluggableUSB.h	/^  virtual uint8_t getShortName(char *name) { name[0] = 'A'+pluggedInterface; return 1; }$/;"	f	class:PluggableUSBModule
+getWriteError	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.h	/^    int getWriteError() { return write_error; }$/;"	f	class:Print
+header	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	CDCCSInterfaceDescriptor	header;$/;"	m	struct:__anon15
+highByte	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define highByte(/;"	d
+iInterface	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 iInterface;$/;"	m	struct:__anon10
+iInterface	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 iInterface;$/;"	m	struct:__anon8
+iManufacturer	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8	iManufacturer;$/;"	m	struct:__anon6
+iProduct	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8	iProduct;$/;"	m	struct:__anon6
+iSerialNumber	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8	iSerialNumber;$/;"	m	struct:__anon6
+iad	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	IADDescriptor				iad;	\/\/ Only needed on compound device$/;"	m	struct:__anon15
+iconfig	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8	iconfig;$/;"	m	struct:__anon7
+idProduct	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u16	idProduct;$/;"	m	struct:__anon6
+idVendor	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u16	idVendor;$/;"	m	struct:__anon6
+in	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	EndpointDescriptor			in;$/;"	m	struct:__anon15
+in	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	EndpointDescriptor			in;$/;"	m	struct:__anon16
+index	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^    size_t index;     \/\/ index used by the search routine.$/;"	m	struct:Stream::MultiTarget
+indexOf	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^int String::indexOf( char ch, unsigned int fromIndex ) const$/;"	f	class:String
+indexOf	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^int String::indexOf(char c) const$/;"	f	class:String
+indexOf	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^int String::indexOf(const String &s2) const$/;"	f	class:String
+indexOf	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^int String::indexOf(const String &s2, unsigned int fromIndex) const$/;"	f	class:String
+init	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^inline void String::init(void)$/;"	f	class:String
+init	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring.c	/^void init()$/;"	f
+initVariant	.pioenvs/sparkfun_promicro16/FrameworkArduino/main.cpp	/^void initVariant() { }$/;"	f
+intFunc	.pioenvs/sparkfun_promicro16/FrameworkArduino/WInterrupts.c	/^static volatile voidFuncPtr intFunc[EXTERNAL_NUM_INTERRUPTS] = {$/;"	v	file:
+interfaceClass	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 interfaceClass;$/;"	m	struct:__anon8
+interfaceCount	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 interfaceCount;$/;"	m	struct:__anon10
+interfaceSubClass	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 interfaceSubClass;$/;"	m	struct:__anon8
+interrupts	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define interrupts(/;"	d
+interval	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 interval;$/;"	m	struct:__anon9
+invalidate	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^void String::invalidate(void)$/;"	f	class:String
+isAlpha	.pioenvs/sparkfun_promicro16/FrameworkArduino/WCharacter.h	/^inline boolean isAlpha(int c)$/;"	f
+isAlphaNumeric	.pioenvs/sparkfun_promicro16/FrameworkArduino/WCharacter.h	/^inline boolean isAlphaNumeric(int c) $/;"	f
+isAscii	.pioenvs/sparkfun_promicro16/FrameworkArduino/WCharacter.h	/^inline boolean isAscii(int c)$/;"	f
+isControl	.pioenvs/sparkfun_promicro16/FrameworkArduino/WCharacter.h	/^inline boolean isControl(int c)$/;"	f
+isDigit	.pioenvs/sparkfun_promicro16/FrameworkArduino/WCharacter.h	/^inline boolean isDigit(int c)$/;"	f
+isGraph	.pioenvs/sparkfun_promicro16/FrameworkArduino/WCharacter.h	/^inline boolean isGraph(int c)$/;"	f
+isHexadecimalDigit	.pioenvs/sparkfun_promicro16/FrameworkArduino/WCharacter.h	/^inline boolean isHexadecimalDigit(int c)$/;"	f
+isLowerCase	.pioenvs/sparkfun_promicro16/FrameworkArduino/WCharacter.h	/^inline boolean isLowerCase(int c)$/;"	f
+isPrintable	.pioenvs/sparkfun_promicro16/FrameworkArduino/WCharacter.h	/^inline boolean isPrintable(int c)$/;"	f
+isPunct	.pioenvs/sparkfun_promicro16/FrameworkArduino/WCharacter.h	/^inline boolean isPunct(int c)$/;"	f
+isSpace	.pioenvs/sparkfun_promicro16/FrameworkArduino/WCharacter.h	/^inline boolean isSpace(int c)$/;"	f
+isUpperCase	.pioenvs/sparkfun_promicro16/FrameworkArduino/WCharacter.h	/^inline boolean isUpperCase(int c)$/;"	f
+isWhitespace	.pioenvs/sparkfun_promicro16/FrameworkArduino/WCharacter.h	/^inline boolean isWhitespace(int c)$/;"	f
+lastEp	.pioenvs/sparkfun_promicro16/FrameworkArduino/PluggableUSB.h	/^  uint8_t lastEp;$/;"	m	class:PluggableUSB_
+lastIf	.pioenvs/sparkfun_promicro16/FrameworkArduino/PluggableUSB.h	/^  uint8_t lastIf;$/;"	m	class:PluggableUSB_
+lastIndexOf	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^int String::lastIndexOf( char theChar ) const$/;"	f	class:String
+lastIndexOf	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^int String::lastIndexOf(char ch, unsigned int fromIndex) const$/;"	f	class:String
+lastIndexOf	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^int String::lastIndexOf(const String &s2) const$/;"	f	class:String
+lastIndexOf	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^int String::lastIndexOf(const String &s2, unsigned int fromIndex) const$/;"	f	class:String
+len	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^    size_t len;       \/\/ length of string you're searching for$/;"	m	struct:Stream::MultiTarget
+len	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8	len;			\/\/ 9$/;"	m	struct:__anon7
+len	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 len;				\/\/ 18$/;"	m	struct:__anon6
+len	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 len;				\/\/ 8$/;"	m	struct:__anon10
+len	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 len;		\/\/ 4$/;"	m	struct:__anon12
+len	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 len;		\/\/ 5$/;"	m	struct:__anon11
+len	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 len;		\/\/ 7$/;"	m	struct:__anon9
+len	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 len;		\/\/ 9$/;"	m	struct:__anon8
+len	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^    u8	len;$/;"	m	struct:__anon13
+len	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^    u8	len;$/;"	m	struct:__anon14
+len	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	unsigned int len;       \/\/ the String length (not counting the '\\0')$/;"	m	class:String
+length	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	inline unsigned int length(void) const {return len;}$/;"	f	class:String
+lineState	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^	u8	lineState;$/;"	m	struct:__anon1	file:
+loop	src/sequencer.cpp	/^void loop()$/;"	f
+lowByte	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define lowByte(/;"	d
+main	.pioenvs/sparkfun_promicro16/FrameworkArduino/main.cpp	/^int main(void)$/;"	f
+makeWord	.pioenvs/sparkfun_promicro16/FrameworkArduino/WMath.cpp	/^unsigned int makeWord(unsigned char h, unsigned char l) { return (h << 8) | l; }$/;"	f
+makeWord	.pioenvs/sparkfun_promicro16/FrameworkArduino/WMath.cpp	/^unsigned int makeWord(unsigned int w) { return w; }$/;"	f
+map	.pioenvs/sparkfun_promicro16/FrameworkArduino/WMath.cpp	/^long map(long x, long in_min, long in_max, long out_min, long out_max)$/;"	f
+max	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define max(/;"	d
+maxPower	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8	maxPower;$/;"	m	struct:__anon7
+micros	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring.c	/^unsigned long micros() {$/;"	f
+microsecondsToClockCycles	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define microsecondsToClockCycles(/;"	d
+millis	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring.c	/^unsigned long millis()$/;"	f
+min	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define min(/;"	d
+move	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^void String::move(String &rhs)$/;"	f	class:String
+msc	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	InterfaceDescriptor			msc;$/;"	m	struct:__anon16
+next	.pioenvs/sparkfun_promicro16/FrameworkArduino/PluggableUSB.h	/^  PluggableUSBModule *next = NULL;$/;"	m	class:PluggableUSBModule
+noInterrupts	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define noInterrupts(/;"	d
+noTone	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^void noTone(uint8_t _pin)$/;"	f
+nothing	.pioenvs/sparkfun_promicro16/FrameworkArduino/WInterrupts.c	/^static void nothing(void) {$/;"	f	file:
+numEndpoints	.pioenvs/sparkfun_promicro16/FrameworkArduino/PluggableUSB.h	/^  const uint8_t numEndpoints;$/;"	m	class:PluggableUSBModule
+numEndpoints	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 numEndpoints;$/;"	m	struct:__anon8
+numInterfaces	.pioenvs/sparkfun_promicro16/FrameworkArduino/PluggableUSB.h	/^  const uint8_t numInterfaces;$/;"	m	class:PluggableUSBModule
+numInterfaces	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8	numInterfaces;$/;"	m	struct:__anon7
+number	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 number;$/;"	m	struct:__anon8
+numbits	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^uint8_t Serial_::numbits() {$/;"	f	class:Serial_
+operator !=	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	unsigned char operator != (const String &rhs) const {return !equals(rhs);}$/;"	f	class:String
+operator !=	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	unsigned char operator != (const char *cstr) const {return !equals(cstr);}$/;"	f	class:String
+operator +	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^StringSumHelper & operator + (const StringSumHelper &lhs, char c)$/;"	f
+operator +	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^StringSumHelper & operator + (const StringSumHelper &lhs, const String &rhs)$/;"	f
+operator +	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^StringSumHelper & operator + (const StringSumHelper &lhs, const __FlashStringHelper *rhs)$/;"	f
+operator +	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^StringSumHelper & operator + (const StringSumHelper &lhs, const char *cstr)$/;"	f
+operator +	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^StringSumHelper & operator + (const StringSumHelper &lhs, double num)$/;"	f
+operator +	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^StringSumHelper & operator + (const StringSumHelper &lhs, float num)$/;"	f
+operator +	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^StringSumHelper & operator + (const StringSumHelper &lhs, int num)$/;"	f
+operator +	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^StringSumHelper & operator + (const StringSumHelper &lhs, long num)$/;"	f
+operator +	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^StringSumHelper & operator + (const StringSumHelper &lhs, unsigned char num)$/;"	f
+operator +	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^StringSumHelper & operator + (const StringSumHelper &lhs, unsigned int num)$/;"	f
+operator +	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^StringSumHelper & operator + (const StringSumHelper &lhs, unsigned long num)$/;"	f
+operator +=	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	String & operator += (char c)			{concat(c); return (*this);}$/;"	f	class:String
+operator +=	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	String & operator += (const String &rhs)	{concat(rhs); return (*this);}$/;"	f	class:String
+operator +=	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	String & operator += (const __FlashStringHelper *str){concat(str); return (*this);}$/;"	f	class:String
+operator +=	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	String & operator += (const char *cstr)		{concat(cstr); return (*this);}$/;"	f	class:String
+operator +=	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	String & operator += (double num)		{concat(num); return (*this);}$/;"	f	class:String
+operator +=	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	String & operator += (float num)		{concat(num); return (*this);}$/;"	f	class:String
+operator +=	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	String & operator += (int num)			{concat(num); return (*this);}$/;"	f	class:String
+operator +=	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	String & operator += (long num)			{concat(num); return (*this);}$/;"	f	class:String
+operator +=	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	String & operator += (unsigned char num)		{concat(num); return (*this);}$/;"	f	class:String
+operator +=	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	String & operator += (unsigned int num)		{concat(num); return (*this);}$/;"	f	class:String
+operator +=	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	String & operator += (unsigned long num)	{concat(num); return (*this);}$/;"	f	class:String
+operator <	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::operator<(const String &rhs) const$/;"	f	class:String
+operator <=	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::operator<=(const String &rhs) const$/;"	f	class:String
+operator =	.pioenvs/sparkfun_promicro16/FrameworkArduino/IPAddress.cpp	/^IPAddress& IPAddress::operator=(const uint8_t *address)$/;"	f	class:IPAddress
+operator =	.pioenvs/sparkfun_promicro16/FrameworkArduino/IPAddress.cpp	/^IPAddress& IPAddress::operator=(uint32_t address)$/;"	f	class:IPAddress
+operator =	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String & String::operator = (String &&rval)$/;"	f	class:String
+operator =	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String & String::operator = (StringSumHelper &&rval)$/;"	f	class:String
+operator =	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String & String::operator = (const String &rhs)$/;"	f	class:String
+operator =	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String & String::operator = (const __FlashStringHelper *pstr)$/;"	f	class:String
+operator =	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String & String::operator = (const char *cstr)$/;"	f	class:String
+operator ==	.pioenvs/sparkfun_promicro16/FrameworkArduino/IPAddress.cpp	/^bool IPAddress::operator==(const uint8_t* addr) const$/;"	f	class:IPAddress
+operator ==	.pioenvs/sparkfun_promicro16/FrameworkArduino/IPAddress.h	/^    bool operator==(const IPAddress& addr) const { return _address.dword == addr._address.dword; };$/;"	f	class:IPAddress
+operator ==	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	unsigned char operator == (const String &rhs) const {return equals(rhs);}$/;"	f	class:String
+operator ==	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	unsigned char operator == (const char *cstr) const {return equals(cstr);}$/;"	f	class:String
+operator >	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::operator>(const String &rhs) const$/;"	f	class:String
+operator >=	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::operator>=(const String &rhs) const$/;"	f	class:String
+operator StringIfHelperType	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	operator StringIfHelperType() const { return buffer ? &String::StringIfHelper : 0; }$/;"	f	class:String
+operator []	.pioenvs/sparkfun_promicro16/FrameworkArduino/IPAddress.h	/^    uint8_t operator[](int index) const { return _address.bytes[index]; };$/;"	f	class:IPAddress
+operator []	.pioenvs/sparkfun_promicro16/FrameworkArduino/IPAddress.h	/^    uint8_t& operator[](int index) { return _address.bytes[index]; };$/;"	f	class:IPAddress
+operator []	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^char & String::operator[](unsigned int index)$/;"	f	class:String
+operator []	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^char String::operator[]( unsigned int index ) const$/;"	f	class:String
+operator bool	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^Serial_::operator bool() {$/;"	f	class:Serial_
+operator bool	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^    operator bool() { return true; }$/;"	f	class:HardwareSerial
+operator delete	.pioenvs/sparkfun_promicro16/FrameworkArduino/new.cpp	/^void operator delete(void * ptr) {$/;"	f
+operator delete[]	.pioenvs/sparkfun_promicro16/FrameworkArduino/new.cpp	/^void operator delete[](void * ptr) {$/;"	f
+operator new	.pioenvs/sparkfun_promicro16/FrameworkArduino/new.cpp	/^void *operator new(size_t size) {$/;"	f
+operator new[]	.pioenvs/sparkfun_promicro16/FrameworkArduino/new.cpp	/^void *operator new[](size_t size) {$/;"	f
+operator uint32_t	.pioenvs/sparkfun_promicro16/FrameworkArduino/IPAddress.h	/^    operator uint32_t() const { return _address.dword; };$/;"	f	class:IPAddress
+out	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	EndpointDescriptor			out;$/;"	m	struct:__anon15
+out	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	EndpointDescriptor			out;$/;"	m	struct:__anon16
+packetSize	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u16 packetSize;$/;"	m	struct:__anon9
+packetSize0	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8	packetSize0;	\/\/ Packet 0$/;"	m	struct:__anon6
+paritytype	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^uint8_t Serial_::paritytype() {$/;"	f	class:Serial_
+parseFloat	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.cpp	/^float Stream::parseFloat(LookaheadMode lookahead, char ignore)$/;"	f	class:Stream
+parseFloat	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^  float parseFloat(char ignore) { return parseFloat(SKIP_ALL, ignore); }$/;"	f	class:Stream
+parseInt	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.cpp	/^long Stream::parseInt(LookaheadMode lookahead, char ignore)$/;"	f	class:Stream
+parseInt	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^  long parseInt(char ignore) { return parseInt(SKIP_ALL, ignore); }$/;"	f	class:Stream
+peek	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^int Serial_::peek(void)$/;"	f	class:Serial_
+peek	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.cpp	/^int HardwareSerial::peek(void)$/;"	f	class:HardwareSerial
+peekNextDigit	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.cpp	/^int Stream::peekNextDigit(LookaheadMode lookahead, bool detectDecimal)$/;"	f	class:Stream
+peek_buffer	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^	int peek_buffer;$/;"	m	class:Serial_
+pinMode	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_digital.c	/^void pinMode(uint8_t pin, uint8_t mode)$/;"	f
+pitchPin	src/sequencer.cpp	/^int pitchPin = 10;$/;"	v
+plug	.pioenvs/sparkfun_promicro16/FrameworkArduino/PluggableUSB.cpp	/^bool PluggableUSB_::plug(PluggableUSBModule *node)$/;"	f	class:PluggableUSB_
+pluggedEndpoint	.pioenvs/sparkfun_promicro16/FrameworkArduino/PluggableUSB.h	/^  uint8_t pluggedEndpoint;$/;"	m	class:PluggableUSBModule
+pluggedInterface	.pioenvs/sparkfun_promicro16/FrameworkArduino/PluggableUSB.h	/^  uint8_t pluggedInterface;$/;"	m	class:PluggableUSBModule
+poll	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^void USBDevice_::poll()$/;"	f	class:USBDevice_
+portInputRegister	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define portInputRegister(/;"	d
+portModeRegister	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define portModeRegister(/;"	d
+portOutputRegister	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define portOutputRegister(/;"	d
+port_to_input_PGM	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^const uint16_t PROGMEM port_to_input_PGM[] = {$/;"	v
+port_to_mode_PGM	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^const uint16_t PROGMEM port_to_mode_PGM[] = {$/;"	v
+port_to_output_PGM	.pioenvs/sparkfun_promicro16/FrameworkArduinoVariant/pins_arduino.h	/^const uint16_t PROGMEM port_to_output_PGM[] = {$/;"	v
+potPin	src/sequencer.cpp	/^int potPin = A0;$/;"	v
+print	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::print(char c)$/;"	f	class:Print
+print	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::print(const Printable& x)$/;"	f	class:Print
+print	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::print(const String &s)$/;"	f	class:Print
+print	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::print(const __FlashStringHelper *ifsh)$/;"	f	class:Print
+print	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::print(const char str[])$/;"	f	class:Print
+print	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::print(double n, int digits)$/;"	f	class:Print
+print	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::print(int n, int base)$/;"	f	class:Print
+print	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::print(long n, int base)$/;"	f	class:Print
+print	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::print(unsigned char b, int base)$/;"	f	class:Print
+print	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::print(unsigned int n, int base)$/;"	f	class:Print
+print	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::print(unsigned long n, int base)$/;"	f	class:Print
+printFloat	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::printFloat(double number, uint8_t digits) $/;"	f	class:Print
+printNumber	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::printNumber(unsigned long n, uint8_t base)$/;"	f	class:Print
+printTo	.pioenvs/sparkfun_promicro16/FrameworkArduino/IPAddress.cpp	/^size_t IPAddress::printTo(Print& p) const$/;"	f	class:IPAddress
+println	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::println(char c)$/;"	f	class:Print
+println	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::println(const Printable& x)$/;"	f	class:Print
+println	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::println(const String &s)$/;"	f	class:Print
+println	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::println(const __FlashStringHelper *ifsh)$/;"	f	class:Print
+println	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::println(const char c[])$/;"	f	class:Print
+println	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::println(double num, int digits)$/;"	f	class:Print
+println	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::println(int num, int base)$/;"	f	class:Print
+println	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::println(long num, int base)$/;"	f	class:Print
+println	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::println(unsigned char b, int base)$/;"	f	class:Print
+println	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::println(unsigned int num, int base)$/;"	f	class:Print
+println	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::println(unsigned long num, int base)$/;"	f	class:Print
+println	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::println(void)$/;"	f	class:Print
+protocol	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 protocol;$/;"	m	struct:__anon8
+pulseIn	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_pulse.c	/^unsigned long pulseIn(uint8_t pin, uint8_t state, unsigned long timeout)$/;"	f
+pulseInLong	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_pulse.c	/^unsigned long pulseInLong(uint8_t pin, uint8_t state, unsigned long timeout)$/;"	f
+radians	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define radians(/;"	d
+random	.pioenvs/sparkfun_promicro16/FrameworkArduino/WMath.cpp	/^long random(long howbig)$/;"	f
+random	.pioenvs/sparkfun_promicro16/FrameworkArduino/WMath.cpp	/^long random(long howsmall, long howbig)$/;"	f
+randomSeed	.pioenvs/sparkfun_promicro16/FrameworkArduino/WMath.cpp	/^void randomSeed(unsigned long seed)$/;"	f
+raw_address	.pioenvs/sparkfun_promicro16/FrameworkArduino/IPAddress.h	/^    uint8_t* raw_address() { return _address.bytes; };$/;"	f	class:IPAddress
+read	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^int Serial_::read(void)$/;"	f	class:Serial_
+read	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.cpp	/^int HardwareSerial::read(void)$/;"	f	class:HardwareSerial
+readBreak	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^int32_t Serial_::readBreak() {$/;"	f	class:Serial_
+readBytes	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.cpp	/^size_t Stream::readBytes(char *buffer, size_t length)$/;"	f	class:Stream
+readBytes	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^  size_t readBytes( uint8_t *buffer, size_t length) { return readBytes((char *)buffer, length); }$/;"	f	class:Stream
+readBytesUntil	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.cpp	/^size_t Stream::readBytesUntil(char terminator, char *buffer, size_t length)$/;"	f	class:Stream
+readBytesUntil	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^  size_t readBytesUntil( char terminator, uint8_t *buffer, size_t length) { return readBytesUntil(terminator, (char *)buffer, length); }$/;"	f	class:Stream
+readString	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.cpp	/^String Stream::readString()$/;"	f	class:Stream
+readStringUntil	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.cpp	/^String Stream::readStringUntil(char terminator)$/;"	f	class:Stream
+remove	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^void String::remove(unsigned int index){$/;"	f	class:String
+remove	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^void String::remove(unsigned int index, unsigned int count){$/;"	f	class:String
+replace	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^void String::replace(char find, char replace)$/;"	f	class:String
+replace	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^void String::replace(const String& find, const String& replace)$/;"	f	class:String
+reserve	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::reserve(unsigned int size)$/;"	f	class:String
+rootNode	.pioenvs/sparkfun_promicro16/FrameworkArduino/PluggableUSB.h	/^  PluggableUSBModule* rootNode;$/;"	m	class:PluggableUSB_
+round	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define round(/;"	d
+rts	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^bool Serial_::rts() {$/;"	f	class:Serial_
+rx_buffer_index_t	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^typedef uint16_t rx_buffer_index_t;$/;"	t
+rx_buffer_index_t	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^typedef uint8_t rx_buffer_index_t;$/;"	t
+sbi	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_private.h	/^#define sbi(/;"	d
+sequence	src/sequencer.cpp	/^int sequence[96] = {$/;"	v
+serialEvent1	src/sequencer.cpp	/^void serialEvent1()$/;"	f
+serialEventRun	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.cpp	/^void serialEventRun(void)$/;"	f
+setCharAt	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^void String::setCharAt(unsigned int loc, char c) $/;"	f	class:String
+setTimeout	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.cpp	/^void Stream::setTimeout(unsigned long timeout)  \/\/ sets the maximum number of milliseconds to wait$/;"	f	class:Stream
+setWriteError	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.h	/^    void setWriteError(int err = 1) { write_error = err; }$/;"	f	class:Print
+setup	.pioenvs/sparkfun_promicro16/FrameworkArduino/PluggableUSB.cpp	/^bool PluggableUSB_::setup(USBSetup& setup)$/;"	f	class:PluggableUSB_
+setup	src/sequencer.cpp	/^void setup()$/;"	f
+setupUSB	.pioenvs/sparkfun_promicro16/FrameworkArduino/main.cpp	/^void setupUSB() { }$/;"	f
+shiftIn	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_shift.c	/^uint8_t shiftIn(uint8_t dataPin, uint8_t clockPin, uint8_t bitOrder) {$/;"	f
+shiftOut	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_shift.c	/^void shiftOut(uint8_t dataPin, uint8_t clockPin, uint8_t bitOrder, uint8_t val)$/;"	f
+sq	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define sq(/;"	d
+startsWith	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::startsWith( const String &s2 ) const$/;"	f	class:String
+startsWith	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^unsigned char String::startsWith( const String &s2, unsigned int offset ) const$/;"	f	class:String
+stopbits	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^uint8_t Serial_::stopbits() {$/;"	f	class:Serial_
+str	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.h	/^    const char *str;  \/\/ string you're searching for$/;"	m	struct:Stream::MultiTarget
+substring	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String String::substring(unsigned int left, unsigned int right) const$/;"	f	class:String
+substring	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	String substring( unsigned int beginIndex ) const { return substring(beginIndex, len); };$/;"	f	class:String
+subtype	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 subtype;$/;"	m	struct:__anon11
+subtype	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u8 subtype;$/;"	m	struct:__anon12
+subtype	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^    u8 	subtype;	\/\/ 1$/;"	m	struct:__anon13
+subtype	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^    u8 	subtype;	\/\/ 1$/;"	m	struct:__anon14
+tick	src/sequencer.cpp	/^int tick = 0;$/;"	v
+timedPeek	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.cpp	/^int Stream::timedPeek()$/;"	f	class:Stream
+timedRead	.pioenvs/sparkfun_promicro16/FrameworkArduino/Stream.cpp	/^int Stream::timedRead()$/;"	f	class:Stream
+timer0_fract	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring.c	/^static unsigned char timer0_fract = 0;$/;"	v	file:
+timer0_millis	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring.c	/^volatile unsigned long timer0_millis = 0;$/;"	v
+timer0_overflow_count	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring.c	/^volatile unsigned long timer0_overflow_count = 0;$/;"	v
+timer0_pin_mask	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^volatile uint8_t timer0_pin_mask;$/;"	v
+timer0_pin_port	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^volatile uint8_t *timer0_pin_port;$/;"	v
+timer0_toggle_count	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^volatile long timer0_toggle_count;$/;"	v
+timer1_pin_mask	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^volatile uint8_t timer1_pin_mask;$/;"	v
+timer1_pin_port	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^volatile uint8_t *timer1_pin_port;$/;"	v
+timer1_toggle_count	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^volatile long timer1_toggle_count;$/;"	v
+timer2_pin_mask	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^volatile uint8_t timer2_pin_mask;$/;"	v
+timer2_pin_port	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^volatile uint8_t *timer2_pin_port;$/;"	v
+timer2_toggle_count	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^volatile long timer2_toggle_count;$/;"	v
+timer3_pin_mask	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^volatile uint8_t timer3_pin_mask;$/;"	v
+timer3_pin_port	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^volatile uint8_t *timer3_pin_port;$/;"	v
+timer3_toggle_count	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^volatile long timer3_toggle_count;$/;"	v
+timer4_pin_mask	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^volatile uint8_t timer4_pin_mask;$/;"	v
+timer4_pin_port	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^volatile uint8_t *timer4_pin_port;$/;"	v
+timer4_toggle_count	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^volatile long timer4_toggle_count;$/;"	v
+timer5_pin_mask	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^volatile uint8_t timer5_pin_mask;$/;"	v
+timer5_pin_port	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^volatile uint8_t *timer5_pin_port;$/;"	v
+timer5_toggle_count	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^volatile long timer5_toggle_count;$/;"	v
+toAscii	.pioenvs/sparkfun_promicro16/FrameworkArduino/WCharacter.h	/^inline int toAscii(int c)$/;"	f
+toCharArray	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.h	/^	void toCharArray(char *buf, unsigned int bufsize, unsigned int index=0) const$/;"	f	class:String
+toFloat	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^float String::toFloat(void) const$/;"	f	class:String
+toInt	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^long String::toInt(void) const$/;"	f	class:String
+toLowerCase	.pioenvs/sparkfun_promicro16/FrameworkArduino/WCharacter.h	/^inline int toLowerCase(int c)$/;"	f
+toLowerCase	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^void String::toLowerCase(void)$/;"	f	class:String
+toUpperCase	.pioenvs/sparkfun_promicro16/FrameworkArduino/WCharacter.h	/^inline int toUpperCase(int c)$/;"	f
+toUpperCase	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^void String::toUpperCase(void)$/;"	f	class:String
+tone	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^void tone(uint8_t _pin, unsigned int frequency, unsigned long duration)$/;"	f
+toneBegin	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^static int8_t toneBegin(uint8_t _pin)$/;"	f	file:
+tone_pin_to_timer_PGM	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^const uint8_t PROGMEM tone_pin_to_timer_PGM[] = { 2 \/*, 1 *\/ };$/;"	v
+tone_pin_to_timer_PGM	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^const uint8_t PROGMEM tone_pin_to_timer_PGM[] = { 2 \/*, 1, 0 *\/ };$/;"	v
+tone_pin_to_timer_PGM	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^const uint8_t PROGMEM tone_pin_to_timer_PGM[] = { 2 \/*, 3, 4, 5, 1, 0 *\/ };$/;"	v
+tone_pin_to_timer_PGM	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^const uint8_t PROGMEM tone_pin_to_timer_PGM[] = { 3 \/*, 1 *\/ };$/;"	v
+tone_pins	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^static uint8_t tone_pins[AVAILABLE_TONE_PINS] = { 255 \/*, 255 *\/ };$/;"	v	file:
+tone_pins	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^static uint8_t tone_pins[AVAILABLE_TONE_PINS] = { 255 \/*, 255, 255 *\/ };$/;"	v	file:
+tone_pins	.pioenvs/sparkfun_promicro16/FrameworkArduino/Tone.cpp	/^static uint8_t tone_pins[AVAILABLE_TONE_PINS] = { 255 \/*, 255, 255, 255, 255, 255 *\/ };$/;"	v	file:
+trim	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^void String::trim(void)$/;"	f	class:String
+turnOffPWM	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_digital.c	/^static void turnOffPWM(uint8_t timer)$/;"	f	file:
+tx_buffer_index_t	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^typedef uint16_t tx_buffer_index_t;$/;"	t
+tx_buffer_index_t	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^typedef uint8_t tx_buffer_index_t;$/;"	t
+u16	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^typedef unsigned short u16;$/;"	t
+u32	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^typedef unsigned long u32;$/;"	t
+u8	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^typedef unsigned char u8;$/;"	t
+usbVersion	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.h	/^	u16 usbVersion;		\/\/ 0x200$/;"	m	struct:__anon6
+voidFuncPtr	.pioenvs/sparkfun_promicro16/FrameworkArduino/wiring_private.h	/^typedef void (*voidFuncPtr)(void);$/;"	t
+wIndex	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^	uint16_t wIndex;$/;"	m	struct:__anon5
+wLength	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^	uint16_t wLength;$/;"	m	struct:__anon5
+wValueH	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^	uint8_t wValueH;$/;"	m	struct:__anon5
+wValueL	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBAPI.h	/^	uint8_t wValueL;$/;"	m	struct:__anon5
+wakeupHost	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^bool USBDevice_::wakeupHost()$/;"	f	class:USBDevice_
+word	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^#define word(/;"	d
+word	.pioenvs/sparkfun_promicro16/FrameworkArduino/Arduino.h	/^typedef unsigned int word;$/;"	t
+write	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^size_t Serial_::write(const uint8_t *buffer, size_t size)$/;"	f	class:Serial_
+write	.pioenvs/sparkfun_promicro16/FrameworkArduino/CDC.cpp	/^size_t Serial_::write(uint8_t c)$/;"	f	class:Serial_
+write	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.cpp	/^size_t HardwareSerial::write(uint8_t c)$/;"	f	class:HardwareSerial
+write	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^    inline size_t write(int n) { return write((uint8_t)n); }$/;"	f	class:HardwareSerial
+write	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^    inline size_t write(long n) { return write((uint8_t)n); }$/;"	f	class:HardwareSerial
+write	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^    inline size_t write(unsigned int n) { return write((uint8_t)n); }$/;"	f	class:HardwareSerial
+write	.pioenvs/sparkfun_promicro16/FrameworkArduino/HardwareSerial.h	/^    inline size_t write(unsigned long n) { return write((uint8_t)n); }$/;"	f	class:HardwareSerial
+write	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.cpp	/^size_t Print::write(const uint8_t *buffer, size_t size)$/;"	f	class:Print
+write	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.h	/^    size_t write(const char *buffer, size_t size) {$/;"	f	class:Print
+write	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.h	/^    size_t write(const char *str) {$/;"	f	class:Print
+write_error	.pioenvs/sparkfun_promicro16/FrameworkArduino/Print.h	/^    int write_error;$/;"	m	class:Print
+~LockEP	.pioenvs/sparkfun_promicro16/FrameworkArduino/USBCore.cpp	/^	~LockEP()$/;"	f	class:LockEP
+~String	.pioenvs/sparkfun_promicro16/FrameworkArduino/WString.cpp	/^String::~String()$/;"	f	class:String

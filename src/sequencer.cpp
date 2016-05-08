@@ -55,7 +55,7 @@ int tick = 0;
 int step = 0;
 
 long lastTime[4] = { 0 };
-long dlay[4] = { 10 };
+long dlay[4] = { 50 };
 int state[4];
 int lastState[4] = { LOW };
 
